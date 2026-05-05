@@ -1,0 +1,401 @@
+review_id,user_id,produk_id,review_date,star_rating,device,review_text
+RVW00001,USR0059,PRD002,2025-09-11,5,web,Great content for exam preparation
+RVW00002,USR0174,PRD012,2024-12-18,5,android,Need more practice questions
+RVW00003,USR0090,PRD004,2024-10-17,4,ios,I recommend this to my friends
+RVW00004,USR0020,PRD008,2025-11-18,4,web,Great for UTBK and national exam prep
+RVW00005,USR0019,PRD021,2025-03-12,5,ios,Great content for exam preparation
+RVW00006,USR0084,PRD020,2025-12-23,4,web,Learning becomes more enjoyable with this platform
+RVW00007,USR0121,PRD010,2025-10-19,2,web,Teacher explanations are clear and easy to follow
+RVW00008,USR0075,PRD005,2025-07-20,1,android,Subscription price is worth the quality
+RVW00009,USR0207,PRD011,2025-12-11,5,android,I recommend this to my friends
+RVW00010,USR0201,PRD019,2025-08-18,5,web,Customer service is responsive
+RVW00011,USR0009,PRD022,2025-11-07,4,android,Excellent practice question features
+RVW00012,USR0245,PRD003,2024-06-29,4,android,Detailed solution explanations
+RVW00013,USR0188,PRD014,2024-11-01,5,android,Teacher explanations are clear and easy to follow
+RVW00014,USR0156,PRD016,2025-12-06,4,web,Competent and experienced instructors
+RVW00015,USR0069,PRD007,2025-06-11,4,ios,Competent and experienced instructors
+RVW00016,USR0063,PRD025,2025-06-29,4,web,App can be slow sometimes but content quality is good
+RVW00017,USR0178,PRD008,2025-12-26,5,web,Learning becomes more enjoyable with this platform
+RVW00018,USR0021,PRD012,2025-06-22,4,web,Challenging and varied practice questions
+RVW00019,USR0155,PRD008,2025-08-02,5,ios,Customer service is responsive
+RVW00020,USR0212,PRD005,2025-06-09,4,web,Customer service is responsive
+RVW00021,USR0171,PRD005,2025-08-17,4,web,Competent and experienced instructors
+RVW00022,USR0081,PRD004,2024-09-18,4,android,Perfect for self-study at home
+RVW00023,USR0148,PRD016,2025-06-13,5,ios,Interactive and engaging video lessons
+RVW00024,USR0225,PRD015,2025-10-15,3,web,Modern and user-friendly interface
+RVW00025,USR0196,PRD018,2025-11-12,5,ios,Teacher explanations are clear and easy to follow
+RVW00026,USR0214,PRD014,2025-06-07,5,ios,Perfect for self-study at home
+RVW00027,USR0132,PRD017,2025-08-14,5,web,Perfect for self-study at home
+RVW00028,USR0103,PRD023,2025-12-04,4,web,App can be slow sometimes but content quality is good
+RVW00029,USR0087,PRD011,2025-07-24,4,ios,Teacher explanations are clear and easy to follow
+RVW00030,USR0019,PRD024,2024-12-29,5,web,Video quality needs improvement
+RVW00031,USR0190,PRD014,2024-09-12,5,android,Perfect for self-study at home
+RVW00032,USR0188,PRD006,2025-12-03,3,ios,Customer service is responsive
+RVW00033,USR0152,PRD012,2025-08-14,4,web,Interactive and engaging video lessons
+RVW00034,USR0131,PRD024,2024-11-17,4,ios,Need more practice questions
+RVW00035,USR0077,PRD016,2025-03-10,2,android,I recommend this to my friends
+RVW00036,USR0149,PRD017,2025-03-26,4,web,Competent and experienced instructors
+RVW00037,USR0194,PRD006,2025-10-03,2,android,Subscription price is worth the quality
+RVW00038,USR0111,PRD017,2024-02-16,4,android,Competent and experienced instructors
+RVW00039,USR0026,PRD012,2025-10-06,3,web,Modern and user-friendly interface
+RVW00040,USR0125,PRD015,2025-09-24,5,web,Modern and user-friendly interface
+RVW00041,USR0156,PRD025,2025-07-18,5,android,Modern and user-friendly interface
+RVW00042,USR0037,PRD004,2023-11-18,4,android,Interactive and engaging video lessons
+RVW00043,USR0008,PRD020,2024-04-17,5,android,Detailed solution explanations
+RVW00044,USR0205,PRD007,2025-07-25,4,ios,Learning becomes more enjoyable with this platform
+RVW00045,USR0053,PRD010,2025-09-29,4,web,I recommend this to my friends
+RVW00046,USR0033,PRD015,2025-02-28,5,android,App can be slow sometimes but content quality is good
+RVW00047,USR0114,PRD014,2025-08-14,4,ios,Modern and user-friendly interface
+RVW00048,USR0188,PRD022,2024-10-27,5,ios,Need more practice questions
+RVW00049,USR0187,PRD003,2025-11-27,3,web,Modern and user-friendly interface
+RVW00050,USR0117,PRD021,2025-12-31,4,ios,Competent and experienced instructors
+RVW00051,USR0229,PRD002,2025-10-09,3,android,I recommend this to my friends
+RVW00052,USR0082,PRD007,2025-12-08,4,android,Teacher explanations are clear and easy to follow
+RVW00053,USR0243,PRD021,2025-04-21,1,ios,Customer service is responsive
+RVW00054,USR0097,PRD008,2025-04-18,3,web,Perfect for self-study at home
+RVW00055,USR0125,PRD006,2025-11-28,4,ios,Subscription price is worth the quality
+RVW00056,USR0163,PRD003,2024-10-13,5,android,Subscription price is worth the quality
+RVW00057,USR0001,PRD014,2023-08-20,4,android,Subscription price is worth the quality
+RVW00058,USR0182,PRD006,2025-10-15,4,web,Need student discussion features
+RVW00059,USR0098,PRD021,2025-12-20,4,web,Challenging and varied practice questions
+RVW00060,USR0136,PRD022,2025-07-27,5,ios,Content follows the latest curriculum
+RVW00061,USR0172,PRD016,2025-01-25,5,web,Need student discussion features
+RVW00062,USR0092,PRD018,2025-10-24,4,ios,App can be slow sometimes but content quality is good
+RVW00063,USR0247,PRD025,2025-09-08,4,web,Competent and experienced instructors
+RVW00064,USR0064,PRD022,2024-09-16,3,web,Competent and experienced instructors
+RVW00065,USR0170,PRD004,2024-10-22,5,android,Perfect for self-study at home
+RVW00066,USR0199,PRD016,2025-12-28,5,android,Great for UTBK and national exam prep
+RVW00067,USR0176,PRD008,2024-05-12,4,android,Subscription price is worth the quality
+RVW00068,USR0228,PRD014,2023-09-18,4,web,Modern and user-friendly interface
+RVW00069,USR0173,PRD011,2025-10-31,4,web,Great for UTBK and national exam prep
+RVW00070,USR0103,PRD009,2025-12-27,2,web,Need more practice questions
+RVW00071,USR0087,PRD021,2025-11-18,2,web,Great for UTBK and national exam prep
+RVW00072,USR0057,PRD019,2024-12-14,4,android,App can be slow sometimes but content quality is good
+RVW00073,USR0243,PRD020,2025-04-04,4,android,Detailed solution explanations
+RVW00074,USR0006,PRD024,2024-04-15,5,ios,Competent and experienced instructors
+RVW00075,USR0234,PRD012,2025-09-02,5,android,Subscription price is worth the quality
+RVW00076,USR0093,PRD018,2025-09-21,5,android,Progress tracking feature is very helpful
+RVW00077,USR0221,PRD023,2025-01-05,4,ios,Learning becomes more enjoyable with this platform
+RVW00078,USR0085,PRD014,2025-07-27,4,ios,Great content for exam preparation
+RVW00079,USR0010,PRD001,2025-12-17,3,web,Challenging and varied practice questions
+RVW00080,USR0011,PRD006,2025-08-07,4,ios,Need more practice questions
+RVW00081,USR0009,PRD009,2025-11-03,5,web,Progress tracking feature is very helpful
+RVW00082,USR0034,PRD024,2024-06-30,5,ios,Excellent practice question features
+RVW00083,USR0130,PRD024,2025-09-04,5,web,Great content for exam preparation
+RVW00084,USR0004,PRD024,2025-09-23,4,ios,App can be slow sometimes but content quality is good
+RVW00085,USR0189,PRD019,2025-12-29,4,android,Content follows the latest curriculum
+RVW00086,USR0201,PRD011,2025-09-28,4,ios,Content follows the latest curriculum
+RVW00087,USR0071,PRD015,2024-12-19,3,android,Customer service is responsive
+RVW00088,USR0121,PRD013,2025-07-26,4,ios,Great for UTBK and national exam prep
+RVW00089,USR0144,PRD009,2025-10-21,4,android,Detailed solution explanations
+RVW00090,USR0130,PRD008,2025-03-23,1,web,Progress tracking feature is very helpful
+RVW00091,USR0244,PRD012,2025-12-04,5,web,Need more practice questions
+RVW00092,USR0148,PRD001,2024-10-15,5,web,Learning becomes more enjoyable with this platform
+RVW00093,USR0123,PRD019,2023-07-13,5,web,Perfect for self-study at home
+RVW00094,USR0208,PRD021,2025-12-28,3,ios,Subscription price is worth the quality
+RVW00095,USR0222,PRD016,2025-12-28,4,ios,Progress tracking feature is very helpful
+RVW00096,USR0158,PRD016,2024-11-17,5,android,Need more practice questions
+RVW00097,USR0016,PRD025,2025-01-09,4,web,Competent and experienced instructors
+RVW00098,USR0214,PRD005,2025-06-10,4,android,Need student discussion features
+RVW00099,USR0105,PRD001,2025-04-21,5,android,Challenging and varied practice questions
+RVW00100,USR0140,PRD016,2025-01-24,5,ios,Competent and experienced instructors
+RVW00101,USR0119,PRD023,2025-10-23,4,android,Excellent practice question features
+RVW00102,USR0236,PRD004,2025-06-18,5,web,Perfect for self-study at home
+RVW00103,USR0194,PRD001,2025-10-05,4,ios,Interactive and engaging video lessons
+RVW00104,USR0051,PRD015,2023-12-28,2,web,Challenging and varied practice questions
+RVW00105,USR0044,PRD021,2025-07-31,4,ios,Detailed solution explanations
+RVW00106,USR0108,PRD013,2023-06-24,4,web,Content follows the latest curriculum
+RVW00107,USR0185,PRD022,2024-07-11,4,android,Learning becomes more enjoyable with this platform
+RVW00108,USR0145,PRD021,2024-10-29,3,android,Subscription price is worth the quality
+RVW00109,USR0206,PRD020,2025-11-13,4,android,Modern and user-friendly interface
+RVW00110,USR0121,PRD015,2025-07-05,5,android,Perfect for self-study at home
+RVW00111,USR0043,PRD017,2025-12-10,1,web,Interactive and engaging video lessons
+RVW00112,USR0039,PRD016,2024-04-05,5,ios,Content follows the latest curriculum
+RVW00113,USR0180,PRD007,2025-03-25,5,android,Video quality needs improvement
+RVW00114,USR0085,PRD004,2025-06-17,4,android,Interactive and engaging video lessons
+RVW00115,USR0018,PRD012,2025-12-27,4,ios,Learning becomes more enjoyable with this platform
+RVW00116,USR0161,PRD001,2024-10-21,4,web,Customer service is responsive
+RVW00117,USR0187,PRD010,2025-12-03,4,web,Modern and user-friendly interface
+RVW00118,USR0144,PRD018,2024-03-25,2,ios,App can be slow sometimes but content quality is good
+RVW00119,USR0188,PRD007,2025-04-12,3,android,App can be slow sometimes but content quality is good
+RVW00120,USR0033,PRD017,2025-12-24,5,web,Competent and experienced instructors
+RVW00121,USR0148,PRD025,2025-05-03,4,android,Need student discussion features
+RVW00122,USR0172,PRD016,2024-04-13,3,ios,Subscription price is worth the quality
+RVW00123,USR0024,PRD020,2023-11-08,3,web,Great content for exam preparation
+RVW00124,USR0083,PRD003,2024-03-18,3,web,Great for UTBK and national exam prep
+RVW00125,USR0171,PRD016,2024-11-04,4,ios,Need more practice questions
+RVW00126,USR0144,PRD013,2025-03-18,5,android,Challenging and varied practice questions
+RVW00127,USR0091,PRD010,2025-10-13,4,android,Excellent practice question features
+RVW00128,USR0227,PRD020,2025-01-02,5,android,Modern and user-friendly interface
+RVW00129,USR0183,PRD005,2025-07-24,4,web,Challenging and varied practice questions
+RVW00130,USR0178,PRD009,2025-12-05,4,web,Learning becomes more enjoyable with this platform
+RVW00131,USR0046,PRD001,2025-11-08,5,android,Learning becomes more enjoyable with this platform
+RVW00132,USR0187,PRD014,2025-11-13,4,ios,Progress tracking feature is very helpful
+RVW00133,USR0096,PRD006,2025-12-02,5,ios,Video quality needs improvement
+RVW00134,USR0093,PRD017,2025-09-20,1,web,Competent and experienced instructors
+RVW00135,USR0025,PRD012,2025-12-28,4,ios,Need student discussion features
+RVW00136,USR0070,PRD002,2025-12-13,4,web,Progress tracking feature is very helpful
+RVW00137,USR0012,PRD023,2025-10-01,4,android,Teacher explanations are clear and easy to follow
+RVW00138,USR0249,PRD019,2025-04-10,5,web,Need student discussion features
+RVW00139,USR0162,PRD015,2025-10-28,3,android,Detailed solution explanations
+RVW00140,USR0207,PRD004,2025-04-13,4,android,Perfect for self-study at home
+RVW00141,USR0181,PRD024,2024-01-31,5,ios,Excellent practice question features
+RVW00142,USR0108,PRD004,2023-08-11,4,android,Teacher explanations are clear and easy to follow
+RVW00143,USR0081,PRD004,2025-04-07,5,ios,Need student discussion features
+RVW00144,USR0189,PRD001,2025-10-31,5,web,Interactive and engaging video lessons
+RVW00145,USR0232,PRD019,2025-07-25,4,android,Progress tracking feature is very helpful
+RVW00146,USR0107,PRD022,2025-07-16,2,ios,I recommend this to my friends
+RVW00147,USR0038,PRD024,2025-08-18,3,web,Teacher explanations are clear and easy to follow
+RVW00148,USR0071,PRD020,2024-12-15,5,web,Interactive and engaging video lessons
+RVW00149,USR0163,PRD024,2025-09-12,5,ios,Content follows the latest curriculum
+RVW00150,USR0071,PRD018,2025-05-20,3,web,Customer service is responsive
+RVW00151,USR0215,PRD023,2024-04-01,4,web,Excellent practice question features
+RVW00152,USR0030,PRD003,2023-11-14,5,ios,Competent and experienced instructors
+RVW00153,USR0152,PRD021,2023-03-11,5,ios,Subscription price is worth the quality
+RVW00154,USR0164,PRD012,2025-06-22,3,android,Need more practice questions
+RVW00155,USR0079,PRD022,2025-02-05,5,android,Perfect for self-study at home
+RVW00156,USR0080,PRD002,2025-05-22,5,ios,Modern and user-friendly interface
+RVW00157,USR0036,PRD019,2025-08-20,4,ios,Modern and user-friendly interface
+RVW00158,USR0227,PRD007,2024-11-25,5,web,Video quality needs improvement
+RVW00159,USR0068,PRD003,2025-03-17,4,web,Learning becomes more enjoyable with this platform
+RVW00160,USR0198,PRD021,2025-12-04,4,android,Interactive and engaging video lessons
+RVW00161,USR0010,PRD019,2025-07-25,3,android,Subscription price is worth the quality
+RVW00162,USR0180,PRD014,2025-06-08,5,android,Content follows the latest curriculum
+RVW00163,USR0054,PRD011,2025-11-24,4,android,Modern and user-friendly interface
+RVW00164,USR0024,PRD017,2025-08-10,3,ios,Video quality needs improvement
+RVW00165,USR0067,PRD002,2025-06-23,4,android,Interactive and engaging video lessons
+RVW00166,USR0122,PRD005,2024-08-07,4,web,Customer service is responsive
+RVW00167,USR0097,PRD022,2025-01-21,5,web,App can be slow sometimes but content quality is good
+RVW00168,USR0162,PRD012,2025-06-27,3,web,Competent and experienced instructors
+RVW00169,USR0087,PRD021,2025-12-31,3,web,Content follows the latest curriculum
+RVW00170,USR0042,PRD015,2024-02-16,5,web,Need student discussion features
+RVW00171,USR0117,PRD019,2025-12-31,5,android,Progress tracking feature is very helpful
+RVW00172,USR0122,PRD008,2023-12-31,5,android,Competent and experienced instructors
+RVW00173,USR0124,PRD022,2025-05-12,4,ios,I recommend this to my friends
+RVW00174,USR0028,PRD014,2025-05-06,5,android,Progress tracking feature is very helpful
+RVW00175,USR0152,PRD001,2023-12-30,4,web,Need student discussion features
+RVW00176,USR0248,PRD023,2025-10-17,3,android,Perfect for self-study at home
+RVW00177,USR0034,PRD022,2024-09-03,5,ios,Excellent practice question features
+RVW00178,USR0080,PRD025,2025-01-20,5,web,Progress tracking feature is very helpful
+RVW00179,USR0043,PRD015,2025-04-12,5,ios,Interactive and engaging video lessons
+RVW00180,USR0078,PRD010,2024-04-22,3,ios,Great for UTBK and national exam prep
+RVW00181,USR0024,PRD024,2024-02-16,3,android,Learning becomes more enjoyable with this platform
+RVW00182,USR0002,PRD016,2025-08-26,4,web,Detailed solution explanations
+RVW00183,USR0176,PRD013,2024-11-16,5,android,Progress tracking feature is very helpful
+RVW00184,USR0213,PRD015,2025-10-22,4,ios,Progress tracking feature is very helpful
+RVW00185,USR0033,PRD011,2024-09-15,4,web,Content follows the latest curriculum
+RVW00186,USR0210,PRD022,2025-08-19,5,android,Progress tracking feature is very helpful
+RVW00187,USR0137,PRD003,2025-05-07,4,android,Customer service is responsive
+RVW00188,USR0007,PRD008,2024-03-05,5,web,Learning becomes more enjoyable with this platform
+RVW00189,USR0088,PRD017,2025-10-23,1,android,Progress tracking feature is very helpful
+RVW00190,USR0235,PRD003,2025-07-19,3,ios,Teacher explanations are clear and easy to follow
+RVW00191,USR0055,PRD010,2025-05-19,3,web,Interactive and engaging video lessons
+RVW00192,USR0109,PRD005,2024-08-26,4,android,Challenging and varied practice questions
+RVW00193,USR0009,PRD009,2025-12-11,3,web,I recommend this to my friends
+RVW00194,USR0214,PRD004,2025-09-28,5,web,App can be slow sometimes but content quality is good
+RVW00195,USR0168,PRD013,2025-07-21,3,ios,Customer service is responsive
+RVW00196,USR0130,PRD013,2025-08-26,4,web,Progress tracking feature is very helpful
+RVW00197,USR0109,PRD025,2024-01-03,4,web,App can be slow sometimes but content quality is good
+RVW00198,USR0155,PRD015,2025-11-19,4,web,Competent and experienced instructors
+RVW00199,USR0217,PRD018,2024-10-28,3,ios,Great for UTBK and national exam prep
+RVW00200,USR0137,PRD025,2025-06-13,5,ios,Perfect for self-study at home
+RVW00201,USR0002,PRD011,2025-12-15,4,android,Need student discussion features
+RVW00202,USR0187,PRD015,2025-12-11,2,web,Teacher explanations are clear and easy to follow
+RVW00203,USR0032,PRD016,2024-09-01,4,android,Learning becomes more enjoyable with this platform
+RVW00204,USR0065,PRD014,2024-11-29,5,ios,Detailed solution explanations
+RVW00205,USR0069,PRD006,2024-08-26,4,ios,Video quality needs improvement
+RVW00206,USR0084,PRD010,2025-12-02,4,web,Teacher explanations are clear and easy to follow
+RVW00207,USR0137,PRD024,2025-06-26,4,ios,Detailed solution explanations
+RVW00208,USR0025,PRD005,2025-12-31,3,web,Great for UTBK and national exam prep
+RVW00209,USR0229,PRD009,2025-09-17,5,android,Need student discussion features
+RVW00210,USR0063,PRD024,2025-12-12,4,ios,Excellent practice question features
+RVW00211,USR0084,PRD012,2025-12-02,3,android,App can be slow sometimes but content quality is good
+RVW00212,USR0098,PRD017,2025-04-06,4,android,Content follows the latest curriculum
+RVW00213,USR0109,PRD013,2023-12-01,3,android,Modern and user-friendly interface
+RVW00214,USR0185,PRD021,2023-06-14,5,web,App can be slow sometimes but content quality is good
+RVW00215,USR0204,PRD007,2025-08-29,4,web,Need student discussion features
+RVW00216,USR0132,PRD018,2025-06-01,5,ios,Learning becomes more enjoyable with this platform
+RVW00217,USR0147,PRD016,2025-09-11,5,web,Modern and user-friendly interface
+RVW00218,USR0192,PRD023,2025-11-02,3,android,Teacher explanations are clear and easy to follow
+RVW00219,USR0155,PRD013,2024-02-01,5,web,Great content for exam preparation
+RVW00220,USR0105,PRD007,2024-08-09,5,android,Perfect for self-study at home
+RVW00221,USR0071,PRD009,2025-09-11,4,android,Competent and experienced instructors
+RVW00222,USR0025,PRD008,2025-12-27,1,web,Need more practice questions
+RVW00223,USR0017,PRD020,2025-04-23,5,android,Video quality needs improvement
+RVW00224,USR0151,PRD014,2025-07-20,4,android,Progress tracking feature is very helpful
+RVW00225,USR0122,PRD018,2023-04-29,4,web,Learning becomes more enjoyable with this platform
+RVW00226,USR0211,PRD015,2023-12-23,4,android,Challenging and varied practice questions
+RVW00227,USR0054,PRD018,2024-12-18,5,web,Progress tracking feature is very helpful
+RVW00228,USR0009,PRD022,2025-12-31,5,android,Challenging and varied practice questions
+RVW00229,USR0144,PRD012,2023-07-25,3,android,Learning becomes more enjoyable with this platform
+RVW00230,USR0078,PRD010,2024-12-18,4,web,Great content for exam preparation
+RVW00231,USR0040,PRD020,2025-10-10,3,web,Customer service is responsive
+RVW00232,USR0111,PRD014,2025-06-29,1,web,Detailed solution explanations
+RVW00233,USR0191,PRD016,2025-08-13,4,android,Perfect for self-study at home
+RVW00234,USR0097,PRD020,2025-10-16,3,web,Subscription price is worth the quality
+RVW00235,USR0055,PRD004,2025-07-28,4,ios,Progress tracking feature is very helpful
+RVW00236,USR0141,PRD014,2025-07-14,5,web,Need student discussion features
+RVW00237,USR0072,PRD011,2025-10-14,5,android,Competent and experienced instructors
+RVW00238,USR0129,PRD018,2025-08-09,4,web,Challenging and varied practice questions
+RVW00239,USR0194,PRD015,2025-10-21,5,web,Interactive and engaging video lessons
+RVW00240,USR0237,PRD006,2025-08-16,4,android,Competent and experienced instructors
+RVW00241,USR0196,PRD015,2025-01-11,5,ios,Progress tracking feature is very helpful
+RVW00242,USR0149,PRD021,2025-03-18,5,web,Subscription price is worth the quality
+RVW00243,USR0163,PRD001,2025-01-26,3,android,Need student discussion features
+RVW00244,USR0129,PRD003,2025-10-16,4,web,Great content for exam preparation
+RVW00245,USR0084,PRD020,2025-12-15,3,android,Challenging and varied practice questions
+RVW00246,USR0176,PRD003,2025-04-27,1,android,Progress tracking feature is very helpful
+RVW00247,USR0142,PRD017,2024-11-22,5,ios,Video quality needs improvement
+RVW00248,USR0095,PRD024,2024-12-27,3,android,Subscription price is worth the quality
+RVW00249,USR0083,PRD005,2024-11-20,2,ios,Subscription price is worth the quality
+RVW00250,USR0148,PRD015,2024-12-18,4,android,Video quality needs improvement
+RVW00251,USR0062,PRD006,2025-11-15,4,ios,Need student discussion features
+RVW00252,USR0215,PRD011,2024-06-15,4,android,Excellent practice question features
+RVW00253,USR0002,PRD024,2025-07-25,5,web,I recommend this to my friends
+RVW00254,USR0121,PRD013,2025-05-31,5,web,Detailed solution explanations
+RVW00255,USR0031,PRD023,2025-12-08,5,android,Great content for exam preparation
+RVW00256,USR0113,PRD016,2023-05-15,4,web,Teacher explanations are clear and easy to follow
+RVW00257,USR0094,PRD013,2025-12-23,4,web,Great for UTBK and national exam prep
+RVW00258,USR0202,PRD004,2024-12-05,3,web,Customer service is responsive
+RVW00259,USR0193,PRD004,2025-08-24,3,web,Competent and experienced instructors
+RVW00260,USR0037,PRD008,2025-07-13,4,web,App can be slow sometimes but content quality is good
+RVW00261,USR0085,PRD021,2025-11-26,2,android,Challenging and varied practice questions
+RVW00262,USR0193,PRD008,2025-09-11,4,web,Video quality needs improvement
+RVW00263,USR0085,PRD015,2025-11-28,4,web,Need student discussion features
+RVW00264,USR0010,PRD025,2024-11-16,3,web,Great content for exam preparation
+RVW00265,USR0057,PRD012,2025-07-03,5,web,Interactive and engaging video lessons
+RVW00266,USR0146,PRD021,2025-12-27,4,web,Content follows the latest curriculum
+RVW00267,USR0040,PRD024,2025-12-06,5,ios,Need student discussion features
+RVW00268,USR0075,PRD013,2024-08-12,5,ios,Subscription price is worth the quality
+RVW00269,USR0150,PRD010,2025-12-14,4,web,Learning becomes more enjoyable with this platform
+RVW00270,USR0185,PRD017,2025-11-26,4,android,Interactive and engaging video lessons
+RVW00271,USR0249,PRD012,2025-06-13,4,android,Competent and experienced instructors
+RVW00272,USR0134,PRD012,2025-11-03,5,web,Interactive and engaging video lessons
+RVW00273,USR0223,PRD017,2025-05-01,3,web,Great content for exam preparation
+RVW00274,USR0172,PRD003,2024-08-27,3,ios,Need more practice questions
+RVW00275,USR0039,PRD009,2025-10-12,5,ios,Subscription price is worth the quality
+RVW00276,USR0092,PRD016,2025-10-18,4,android,Great content for exam preparation
+RVW00277,USR0216,PRD024,2025-11-17,5,android,Subscription price is worth the quality
+RVW00278,USR0094,PRD022,2025-11-23,4,ios,Competent and experienced instructors
+RVW00279,USR0130,PRD003,2025-01-25,4,android,Detailed solution explanations
+RVW00280,USR0224,PRD003,2025-04-18,4,android,Need more practice questions
+RVW00281,USR0063,PRD009,2024-12-28,5,android,Need more practice questions
+RVW00282,USR0059,PRD023,2025-09-13,4,ios,Need student discussion features
+RVW00283,USR0069,PRD018,2024-08-10,3,ios,Excellent practice question features
+RVW00284,USR0232,PRD005,2025-10-13,4,ios,Need more practice questions
+RVW00285,USR0063,PRD019,2025-10-25,4,android,Teacher explanations are clear and easy to follow
+RVW00286,USR0082,PRD021,2024-11-10,3,ios,Video quality needs improvement
+RVW00287,USR0022,PRD016,2025-02-03,3,android,Subscription price is worth the quality
+RVW00288,USR0154,PRD016,2024-07-19,4,android,Great for UTBK and national exam prep
+RVW00289,USR0221,PRD004,2025-09-13,5,android,Subscription price is worth the quality
+RVW00290,USR0151,PRD021,2025-07-09,5,ios,Modern and user-friendly interface
+RVW00291,USR0194,PRD014,2025-11-30,4,android,Interactive and engaging video lessons
+RVW00292,USR0085,PRD017,2025-10-03,4,android,Content follows the latest curriculum
+RVW00293,USR0068,PRD018,2024-07-13,4,android,Detailed solution explanations
+RVW00294,USR0129,PRD010,2025-11-12,4,ios,Challenging and varied practice questions
+RVW00295,USR0002,PRD011,2025-11-24,4,ios,Interactive and engaging video lessons
+RVW00296,USR0017,PRD025,2025-07-06,5,ios,Video quality needs improvement
+RVW00297,USR0088,PRD021,2025-08-14,4,ios,Subscription price is worth the quality
+RVW00298,USR0200,PRD004,2025-11-15,4,web,I recommend this to my friends
+RVW00299,USR0079,PRD011,2025-11-20,3,web,Need student discussion features
+RVW00300,USR0054,PRD019,2024-12-02,4,ios,Progress tracking feature is very helpful
+RVW00301,USR0202,PRD006,2025-12-23,3,android,Interactive and engaging video lessons
+RVW00302,USR0084,PRD017,2025-12-30,5,web,Modern and user-friendly interface
+RVW00303,USR0059,PRD009,2025-05-10,5,web,Learning becomes more enjoyable with this platform
+RVW00304,USR0038,PRD010,2025-09-21,5,android,Competent and experienced instructors
+RVW00305,USR0116,PRD010,2025-11-11,4,web,Great content for exam preparation
+RVW00306,USR0196,PRD013,2024-09-13,5,web,Perfect for self-study at home
+RVW00307,USR0250,PRD015,2025-08-30,4,android,Subscription price is worth the quality
+RVW00308,USR0054,PRD022,2025-03-16,4,web,Great content for exam preparation
+RVW00309,USR0083,PRD014,2025-02-19,4,android,Subscription price is worth the quality
+RVW00310,USR0205,PRD007,2025-12-29,4,web,App can be slow sometimes but content quality is good
+RVW00311,USR0020,PRD008,2025-11-15,4,web,Customer service is responsive
+RVW00312,USR0121,PRD002,2025-11-28,5,android,Challenging and varied practice questions
+RVW00313,USR0064,PRD009,2025-03-21,4,ios,App can be slow sometimes but content quality is good
+RVW00314,USR0015,PRD021,2025-11-11,4,web,Video quality needs improvement
+RVW00315,USR0237,PRD010,2025-03-21,4,android,Excellent practice question features
+RVW00316,USR0084,PRD025,2025-12-26,5,ios,Customer service is responsive
+RVW00317,USR0077,PRD019,2024-12-28,4,web,Need more practice questions
+RVW00318,USR0084,PRD019,2025-12-16,4,web,Great content for exam preparation
+RVW00319,USR0036,PRD025,2025-12-15,2,android,Competent and experienced instructors
+RVW00320,USR0246,PRD012,2025-11-29,5,ios,Interactive and engaging video lessons
+RVW00321,USR0083,PRD015,2024-09-14,4,web,Subscription price is worth the quality
+RVW00322,USR0174,PRD023,2024-03-05,4,android,Great content for exam preparation
+RVW00323,USR0036,PRD004,2025-11-12,4,web,Challenging and varied practice questions
+RVW00324,USR0205,PRD002,2025-12-06,2,android,Learning becomes more enjoyable with this platform
+RVW00325,USR0005,PRD019,2025-08-06,5,android,Competent and experienced instructors
+RVW00326,USR0203,PRD018,2025-03-25,4,web,Excellent practice question features
+RVW00327,USR0189,PRD003,2025-11-30,3,android,App can be slow sometimes but content quality is good
+RVW00328,USR0137,PRD006,2025-10-24,5,ios,Customer service is responsive
+RVW00329,USR0237,PRD015,2025-12-02,5,ios,Excellent practice question features
+RVW00330,USR0197,PRD022,2025-09-15,5,web,Video quality needs improvement
+RVW00331,USR0228,PRD024,2023-12-20,5,ios,Interactive and engaging video lessons
+RVW00332,USR0166,PRD019,2024-12-01,4,android,Great for UTBK and national exam prep
+RVW00333,USR0228,PRD001,2024-09-01,4,ios,Need student discussion features
+RVW00334,USR0213,PRD013,2024-11-04,1,web,Great for UTBK and national exam prep
+RVW00335,USR0039,PRD009,2024-09-12,4,web,Detailed solution explanations
+RVW00336,USR0118,PRD021,2025-11-13,3,android,Learning becomes more enjoyable with this platform
+RVW00337,USR0229,PRD023,2025-11-15,3,ios,Subscription price is worth the quality
+RVW00338,USR0079,PRD006,2024-11-05,1,android,Teacher explanations are clear and easy to follow
+RVW00339,USR0200,PRD005,2025-07-24,4,ios,Competent and experienced instructors
+RVW00340,USR0223,PRD011,2025-12-16,4,ios,Subscription price is worth the quality
+RVW00341,USR0078,PRD006,2025-04-09,5,ios,Subscription price is worth the quality
+RVW00342,USR0198,PRD012,2025-10-02,3,web,App can be slow sometimes but content quality is good
+RVW00343,USR0214,PRD013,2025-06-07,4,android,Subscription price is worth the quality
+RVW00344,USR0098,PRD002,2025-10-11,4,ios,Subscription price is worth the quality
+RVW00345,USR0198,PRD013,2025-12-13,5,ios,Interactive and engaging video lessons
+RVW00346,USR0130,PRD019,2025-09-14,4,ios,Subscription price is worth the quality
+RVW00347,USR0031,PRD016,2025-12-06,4,web,Great for UTBK and national exam prep
+RVW00348,USR0049,PRD007,2025-12-24,5,web,Challenging and varied practice questions
+RVW00349,USR0066,PRD017,2024-10-12,5,ios,Great content for exam preparation
+RVW00350,USR0098,PRD014,2025-09-17,5,ios,Learning becomes more enjoyable with this platform
+RVW00351,USR0093,PRD010,2025-12-12,2,android,Content follows the latest curriculum
+RVW00352,USR0059,PRD023,2024-10-24,5,web,Challenging and varied practice questions
+RVW00353,USR0005,PRD009,2025-04-12,2,ios,Interactive and engaging video lessons
+RVW00354,USR0145,PRD001,2024-09-21,4,ios,Challenging and varied practice questions
+RVW00355,USR0196,PRD002,2024-09-19,4,ios,Content follows the latest curriculum
+RVW00356,USR0096,PRD020,2024-12-26,5,web,Interactive and engaging video lessons
+RVW00357,USR0045,PRD017,2024-11-29,5,android,Interactive and engaging video lessons
+RVW00358,USR0094,PRD004,2025-12-01,1,ios,Content follows the latest curriculum
+RVW00359,USR0104,PRD021,2025-10-16,5,web,Need student discussion features
+RVW00360,USR0083,PRD001,2024-02-20,4,web,Teacher explanations are clear and easy to follow
+RVW00361,USR0189,PRD005,2025-11-10,2,web,Need student discussion features
+RVW00362,USR0185,PRD017,2023-12-16,3,ios,Learning becomes more enjoyable with this platform
+RVW00363,USR0230,PRD008,2023-12-30,4,ios,App can be slow sometimes but content quality is good
+RVW00364,USR0248,PRD016,2025-09-16,5,android,Video quality needs improvement
+RVW00365,USR0035,PRD020,2025-08-26,4,web,Modern and user-friendly interface
+RVW00366,USR0033,PRD011,2025-11-05,4,android,App can be slow sometimes but content quality is good
+RVW00367,USR0123,PRD016,2025-04-28,5,android,Subscription price is worth the quality
+RVW00368,USR0033,PRD008,2025-10-11,3,ios,Need more practice questions
+RVW00369,USR0169,PRD003,2024-05-17,5,web,Need student discussion features
+RVW00370,USR0027,PRD008,2025-07-12,4,android,Content follows the latest curriculum
+RVW00371,USR0085,PRD023,2025-09-28,5,android,I recommend this to my friends
+RVW00372,USR0148,PRD009,2025-10-22,5,web,Great for UTBK and national exam prep
+RVW00373,USR0096,PRD022,2024-03-25,4,ios,Progress tracking feature is very helpful
+RVW00374,USR0162,PRD002,2025-08-14,5,ios,Perfect for self-study at home
+RVW00375,USR0163,PRD002,2025-09-05,5,ios,Progress tracking feature is very helpful
+RVW00376,USR0083,PRD001,2025-09-01,4,web,Subscription price is worth the quality
+RVW00377,USR0161,PRD019,2025-05-27,4,ios,Video quality needs improvement
+RVW00378,USR0160,PRD009,2025-03-11,4,android,Modern and user-friendly interface
+RVW00379,USR0168,PRD025,2025-11-26,5,web,Interactive and engaging video lessons
+RVW00380,USR0066,PRD011,2025-11-01,5,web,App can be slow sometimes but content quality is good
+RVW00381,USR0172,PRD011,2025-11-01,4,ios,Learning becomes more enjoyable with this platform
+RVW00382,USR0110,PRD021,2025-04-27,5,ios,App can be slow sometimes but content quality is good
+RVW00383,USR0059,PRD015,2025-11-09,3,android,Content follows the latest curriculum
+RVW00384,USR0033,PRD012,2025-03-12,4,android,Excellent practice question features
+RVW00385,USR0248,PRD017,2025-04-25,4,android,Subscription price is worth the quality
+RVW00386,USR0037,PRD022,2023-12-04,5,ios,Learning becomes more enjoyable with this platform
+RVW00387,USR0135,PRD020,2025-12-28,3,android,I recommend this to my friends
+RVW00388,USR0013,PRD018,2024-08-18,4,android,I recommend this to my friends
+RVW00389,USR0043,PRD012,2025-07-02,3,ios,Need student discussion features
+RVW00390,USR0058,PRD025,2025-04-13,4,android,Great for UTBK and national exam prep
+RVW00391,USR0220,PRD007,2025-01-24,2,web,Content follows the latest curriculum
+RVW00392,USR0100,PRD017,2025-05-29,5,web,Competent and experienced instructors
+RVW00393,USR0035,PRD024,2025-11-10,1,web,Detailed solution explanations
+RVW00394,USR0172,PRD010,2024-04-12,5,android,Need student discussion features
+RVW00395,USR0246,PRD003,2025-05-15,5,ios,Perfect for self-study at home
+RVW00396,USR0124,PRD006,2024-06-21,4,ios,Great for UTBK and national exam prep
+RVW00397,USR0101,PRD019,2024-12-09,4,web,Excellent practice question features
+RVW00398,USR0058,PRD009,2025-04-07,5,ios,Customer service is responsive
+RVW00399,USR0242,PRD022,2023-09-05,3,ios,Modern and user-friendly interface
+RVW00400,USR0195,PRD011,2023-11-04,5,android,Content follows the latest curriculum

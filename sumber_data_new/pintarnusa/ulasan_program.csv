@@ -1,0 +1,401 @@
+id_ulasan,id_siswa,id_program,tanggal_ulasan,rating,device,isi_ulasan
+ULP00001,SPN0078,PGM019,2024-07-31,2,ios,Fitur tracking progress sangat membantu
+ULP00002,SPN0242,PGM005,2025-09-04,3,ios,Soal-soal latihannya menantang dan variatif
+ULP00003,SPN0201,PGM006,2024-09-18,5,android,Tampilan aplikasi modern dan user-friendly
+ULP00004,SPN0117,PGM007,2024-08-27,4,web,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00005,SPN0223,PGM028,2023-12-28,3,android,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00006,SPN0181,PGM004,2023-06-29,5,android,Soal-soal latihannya menantang dan variatif
+ULP00007,SPN0149,PGM005,2024-05-13,3,web,Harga langganan sebanding dengan kualitas materi
+ULP00008,SPN0214,PGM016,2023-12-03,5,android,Video pembelajarannya menarik dan interaktif
+ULP00009,SPN0174,PGM021,2025-08-29,4,web,Perlu fitur diskusi antar siswa
+ULP00010,SPN0063,PGM020,2024-03-13,3,web,Butuh lebih banyak materi untuk kelas 12
+ULP00011,SPN0192,PGM026,2024-11-09,3,web,Fitur latihan soalnya bagus sekali
+ULP00012,SPN0010,PGM015,2025-11-18,3,ios,Guru pengajarnya kompeten dan berpengalaman
+ULP00013,SPN0120,PGM030,2025-12-16,5,android,Soal-soal latihannya menantang dan variatif
+ULP00014,SPN0144,PGM018,2024-12-28,3,web,Loading cepat dan jarang error
+ULP00015,SPN0100,PGM029,2024-11-28,5,android,Customer service responsif dan membantu
+ULP00016,SPN0118,PGM023,2024-11-20,4,ios,Soal-soal latihannya menantang dan variatif
+ULP00017,SPN0289,PGM016,2025-06-04,2,ios,Fitur tracking progress sangat membantu
+ULP00018,SPN0076,PGM020,2025-05-22,1,web,Kualitas video perlu ditingkatkan
+ULP00019,SPN0137,PGM003,2025-08-12,3,ios,Penjelasan step-by-step sangat membantu pemahaman
+ULP00020,SPN0142,PGM023,2025-08-23,3,ios,Soal-soal latihannya menantang dan variatif
+ULP00021,SPN0127,PGM008,2025-12-18,1,web,Perlu fitur diskusi antar siswa
+ULP00022,SPN0248,PGM018,2024-03-27,4,web,Soal-soal latihannya menantang dan variatif
+ULP00023,SPN0161,PGM020,2024-02-19,5,android,Harga langganan sebanding dengan kualitas materi
+ULP00024,SPN0062,PGM010,2025-11-28,1,ios,Saya rekomendasikan untuk teman-teman saya
+ULP00025,SPN0259,PGM010,2024-05-27,4,web,Loading cepat dan jarang error
+ULP00026,SPN0006,PGM010,2025-08-01,2,web,Materi sangat membantu untuk persiapan ujian
+ULP00027,SPN0015,PGM021,2025-12-16,4,ios,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00028,SPN0239,PGM025,2025-08-24,3,web,Materi pembahasan soal sangat detail
+ULP00029,SPN0081,PGM020,2025-05-19,4,ios,Tampilan aplikasi modern dan user-friendly
+ULP00030,SPN0234,PGM009,2024-11-11,4,web,Materi sesuai kurikulum terbaru
+ULP00031,SPN0084,PGM019,2025-04-21,2,ios,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00032,SPN0027,PGM028,2024-04-17,3,web,Sangat cocok untuk belajar mandiri di rumah
+ULP00033,SPN0162,PGM027,2025-04-14,3,android,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00034,SPN0166,PGM013,2024-06-05,2,ios,Konten gratis sudah cukup lengkap
+ULP00035,SPN0145,PGM011,2025-12-28,4,ios,Saya rekomendasikan untuk teman-teman saya
+ULP00036,SPN0029,PGM024,2025-10-01,4,web,Fitur latihan soalnya bagus sekali
+ULP00037,SPN0035,PGM005,2025-06-21,1,ios,Loading cepat dan jarang error
+ULP00038,SPN0121,PGM003,2025-06-11,5,web,Fitur latihan soalnya bagus sekali
+ULP00039,SPN0212,PGM011,2025-11-27,1,web,Materi pembahasan soal sangat detail
+ULP00040,SPN0032,PGM017,2024-06-20,4,web,Loading cepat dan jarang error
+ULP00041,SPN0080,PGM018,2025-12-29,1,ios,Kualitas video perlu ditingkatkan
+ULP00042,SPN0082,PGM004,2025-10-20,5,web,Perlu ditambah lebih banyak latihan soal
+ULP00043,SPN0123,PGM002,2023-04-12,1,android,Perlu ditambah lebih banyak latihan soal
+ULP00044,SPN0246,PGM002,2024-12-05,2,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00045,SPN0071,PGM017,2025-11-10,2,android,Paket premium worth it untuk persiapan ujian
+ULP00046,SPN0203,PGM001,2025-12-30,3,android,Loading cepat dan jarang error
+ULP00047,SPN0213,PGM018,2024-08-14,1,android,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00048,SPN0107,PGM008,2025-11-12,1,android,Fitur latihan soalnya bagus sekali
+ULP00049,SPN0298,PGM029,2025-05-20,3,ios,Fitur tracking progress sangat membantu
+ULP00050,SPN0109,PGM005,2025-09-27,1,android,Butuh lebih banyak materi untuk kelas 12
+ULP00051,SPN0145,PGM009,2025-12-27,3,web,Video pembelajarannya menarik dan interaktif
+ULP00052,SPN0104,PGM025,2025-07-23,2,ios,Guru pengajarnya kompeten dan berpengalaman
+ULP00053,SPN0134,PGM013,2023-10-30,4,web,Materi sangat membantu untuk persiapan ujian
+ULP00054,SPN0229,PGM020,2025-12-26,4,ios,Video pembelajarannya menarik dan interaktif
+ULP00055,SPN0058,PGM002,2025-07-25,5,android,Harga langganan sebanding dengan kualitas materi
+ULP00056,SPN0103,PGM025,2025-01-18,4,web,Loading cepat dan jarang error
+ULP00057,SPN0110,PGM029,2025-12-05,5,web,Kualitas video perlu ditingkatkan
+ULP00058,SPN0028,PGM021,2024-12-23,3,web,Harga langganan sebanding dengan kualitas materi
+ULP00059,SPN0262,PGM001,2025-09-30,1,ios,Guru pengajarnya kompeten dan berpengalaman
+ULP00060,SPN0106,PGM016,2025-05-14,3,web,Kualitas video perlu ditingkatkan
+ULP00061,SPN0201,PGM020,2025-12-23,2,web,Soal-soal latihannya menantang dan variatif
+ULP00062,SPN0288,PGM020,2025-01-08,4,android,Perlu ditambah lebih banyak latihan soal
+ULP00063,SPN0040,PGM020,2024-10-14,5,ios,Perlu fitur diskusi antar siswa
+ULP00064,SPN0026,PGM028,2024-04-07,5,ios,Materi sesuai kurikulum terbaru
+ULP00065,SPN0228,PGM013,2024-11-20,1,web,Harga langganan sebanding dengan kualitas materi
+ULP00066,SPN0098,PGM014,2025-12-16,5,ios,Tampilan aplikasi modern dan user-friendly
+ULP00067,SPN0214,PGM021,2023-12-12,2,ios,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00068,SPN0155,PGM005,2024-05-26,3,ios,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00069,SPN0016,PGM029,2025-03-28,2,ios,Fitur latihan soalnya bagus sekali
+ULP00070,SPN0121,PGM015,2025-12-30,2,ios,Loading cepat dan jarang error
+ULP00071,SPN0289,PGM016,2025-06-16,4,ios,Harga langganan sebanding dengan kualitas materi
+ULP00072,SPN0034,PGM013,2025-12-22,3,ios,Soal-soal latihannya menantang dan variatif
+ULP00073,SPN0222,PGM027,2025-09-16,3,ios,Customer service responsif dan membantu
+ULP00074,SPN0023,PGM022,2024-11-01,5,web,Loading cepat dan jarang error
+ULP00075,SPN0145,PGM024,2025-12-25,2,web,Materi sangat membantu untuk persiapan ujian
+ULP00076,SPN0140,PGM028,2024-11-21,2,web,Materi sangat membantu untuk persiapan ujian
+ULP00077,SPN0023,PGM028,2025-07-15,5,web,Materi pembahasan soal sangat detail
+ULP00078,SPN0251,PGM026,2025-02-20,4,android,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00079,SPN0147,PGM012,2023-07-29,4,web,Soal-soal latihannya menantang dan variatif
+ULP00080,SPN0279,PGM006,2025-06-08,4,web,Butuh lebih banyak materi untuk kelas 12
+ULP00081,SPN0283,PGM018,2025-07-31,2,android,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00082,SPN0209,PGM006,2025-10-27,3,web,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00083,SPN0150,PGM005,2025-11-03,4,web,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00084,SPN0222,PGM003,2025-02-11,5,web,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00085,SPN0239,PGM015,2025-12-03,5,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00086,SPN0176,PGM017,2025-12-30,5,ios,Perlu fitur diskusi antar siswa
+ULP00087,SPN0175,PGM018,2025-11-01,5,ios,Customer service responsif dan membantu
+ULP00088,SPN0072,PGM027,2025-10-27,2,android,Fitur tracking progress sangat membantu
+ULP00089,SPN0042,PGM027,2024-07-02,5,android,Materi pembahasan soal sangat detail
+ULP00090,SPN0022,PGM017,2025-06-11,3,web,Materi pembahasan soal sangat detail
+ULP00091,SPN0085,PGM024,2025-01-02,4,web,Soal-soal latihannya menantang dan variatif
+ULP00092,SPN0060,PGM011,2025-02-10,3,web,Saya rekomendasikan untuk teman-teman saya
+ULP00093,SPN0202,PGM008,2025-09-20,4,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00094,SPN0055,PGM008,2025-07-29,4,ios,Loading cepat dan jarang error
+ULP00095,SPN0097,PGM023,2025-12-23,5,android,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00096,SPN0254,PGM005,2023-10-24,4,web,Perlu ditambah lebih banyak latihan soal
+ULP00097,SPN0208,PGM010,2025-12-22,2,android,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00098,SPN0098,PGM001,2025-10-31,1,ios,Harga langganan sebanding dengan kualitas materi
+ULP00099,SPN0096,PGM027,2024-08-06,1,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00100,SPN0217,PGM012,2025-06-16,1,android,Materi sesuai kurikulum terbaru
+ULP00101,SPN0176,PGM013,2024-08-20,2,web,Perlu fitur diskusi antar siswa
+ULP00102,SPN0245,PGM021,2025-03-27,4,android,Soal-soal latihannya menantang dan variatif
+ULP00103,SPN0017,PGM016,2025-04-06,3,web,Loading cepat dan jarang error
+ULP00104,SPN0243,PGM028,2025-08-06,4,ios,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00105,SPN0180,PGM022,2025-10-03,5,web,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00106,SPN0250,PGM025,2023-08-18,3,android,Fitur latihan soalnya bagus sekali
+ULP00107,SPN0043,PGM008,2025-10-09,5,android,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00108,SPN0233,PGM013,2025-08-10,2,web,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00109,SPN0166,PGM010,2025-06-23,4,web,Harga langganan sebanding dengan kualitas materi
+ULP00110,SPN0211,PGM004,2025-02-27,4,android,Paket premium worth it untuk persiapan ujian
+ULP00111,SPN0015,PGM030,2025-12-07,3,android,Video pembelajarannya menarik dan interaktif
+ULP00112,SPN0238,PGM009,2025-07-01,3,android,Konten gratis sudah cukup lengkap
+ULP00113,SPN0025,PGM009,2024-12-31,1,android,Soal-soal latihannya menantang dan variatif
+ULP00114,SPN0090,PGM029,2025-08-01,2,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00115,SPN0149,PGM020,2024-08-20,3,android,Sangat cocok untuk belajar mandiri di rumah
+ULP00116,SPN0040,PGM007,2025-11-02,3,ios,Fitur tracking progress sangat membantu
+ULP00117,SPN0091,PGM025,2024-11-17,1,ios,Perlu ditambah lebih banyak latihan soal
+ULP00118,SPN0175,PGM028,2025-11-27,4,web,Perlu ditambah lebih banyak latihan soal
+ULP00119,SPN0228,PGM026,2024-10-06,1,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00120,SPN0289,PGM001,2025-09-20,3,android,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00121,SPN0011,PGM023,2025-02-10,5,web,Konten gratis sudah cukup lengkap
+ULP00122,SPN0279,PGM004,2025-07-01,3,web,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00123,SPN0286,PGM023,2025-06-02,1,ios,Tampilan aplikasi modern dan user-friendly
+ULP00124,SPN0184,PGM016,2025-11-09,3,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00125,SPN0062,PGM001,2025-07-05,1,ios,Paket premium worth it untuk persiapan ujian
+ULP00126,SPN0101,PGM015,2025-11-14,3,web,Soal-soal latihannya menantang dan variatif
+ULP00127,SPN0035,PGM026,2025-10-29,2,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00128,SPN0287,PGM002,2024-10-17,2,web,Sangat cocok untuk belajar mandiri di rumah
+ULP00129,SPN0201,PGM001,2024-11-27,1,ios,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00130,SPN0269,PGM022,2025-07-23,4,ios,Materi sesuai kurikulum terbaru
+ULP00131,SPN0071,PGM011,2025-10-22,5,ios,Harga langganan sebanding dengan kualitas materi
+ULP00132,SPN0244,PGM016,2025-11-26,2,ios,Fitur tracking progress sangat membantu
+ULP00133,SPN0284,PGM021,2025-05-25,3,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00134,SPN0066,PGM028,2025-10-30,1,ios,Soal-soal latihannya menantang dan variatif
+ULP00135,SPN0263,PGM003,2025-06-19,2,web,Konten gratis sudah cukup lengkap
+ULP00136,SPN0186,PGM008,2025-08-27,3,web,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00137,SPN0165,PGM025,2024-12-10,1,android,Butuh lebih banyak materi untuk kelas 12
+ULP00138,SPN0192,PGM013,2025-10-04,4,ios,Butuh lebih banyak materi untuk kelas 12
+ULP00139,SPN0066,PGM016,2025-10-29,5,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00140,SPN0081,PGM008,2025-08-06,3,web,Penjelasan step-by-step sangat membantu pemahaman
+ULP00141,SPN0039,PGM014,2025-01-04,1,ios,Materi pembahasan soal sangat detail
+ULP00142,SPN0044,PGM023,2025-12-25,4,ios,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00143,SPN0143,PGM013,2024-06-18,3,web,Materi sesuai kurikulum terbaru
+ULP00144,SPN0275,PGM020,2025-03-10,5,web,Saya rekomendasikan untuk teman-teman saya
+ULP00145,SPN0250,PGM013,2023-11-30,3,ios,Loading cepat dan jarang error
+ULP00146,SPN0251,PGM011,2025-07-24,3,android,Fitur latihan soalnya bagus sekali
+ULP00147,SPN0129,PGM021,2025-10-06,5,web,Perlu fitur diskusi antar siswa
+ULP00148,SPN0263,PGM008,2025-09-03,5,web,Perlu ditambah lebih banyak latihan soal
+ULP00149,SPN0290,PGM007,2025-04-07,5,ios,Guru pengajarnya kompeten dan berpengalaman
+ULP00150,SPN0266,PGM022,2024-08-18,2,android,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00151,SPN0097,PGM025,2025-12-25,5,android,Materi sesuai kurikulum terbaru
+ULP00152,SPN0098,PGM022,2025-12-12,3,android,Materi pembahasan soal sangat detail
+ULP00153,SPN0165,PGM007,2025-02-17,4,ios,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00154,SPN0150,PGM021,2024-06-14,2,android,Guru pengajarnya kompeten dan berpengalaman
+ULP00155,SPN0094,PGM029,2025-10-25,3,web,Soal-soal latihannya menantang dan variatif
+ULP00156,SPN0139,PGM030,2025-09-02,3,ios,Tampilan aplikasi modern dan user-friendly
+ULP00157,SPN0037,PGM009,2023-10-12,5,android,Fitur tracking progress sangat membantu
+ULP00158,SPN0002,PGM003,2024-03-27,5,web,Soal-soal latihannya menantang dan variatif
+ULP00159,SPN0233,PGM030,2025-11-27,4,web,Saya rekomendasikan untuk teman-teman saya
+ULP00160,SPN0291,PGM014,2025-07-03,2,web,Konten gratis sudah cukup lengkap
+ULP00161,SPN0251,PGM020,2024-12-19,3,web,Guru pengajarnya kompeten dan berpengalaman
+ULP00162,SPN0062,PGM005,2025-07-10,1,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00163,SPN0036,PGM009,2023-09-22,3,web,Sangat cocok untuk belajar mandiri di rumah
+ULP00164,SPN0050,PGM030,2025-10-24,4,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00165,SPN0291,PGM002,2025-03-29,1,android,Butuh lebih banyak materi untuk kelas 12
+ULP00166,SPN0142,PGM010,2025-11-05,2,ios,Perlu fitur diskusi antar siswa
+ULP00167,SPN0293,PGM025,2025-08-22,5,web,Perlu ditambah lebih banyak latihan soal
+ULP00168,SPN0078,PGM001,2025-08-13,4,ios,Video pembelajarannya menarik dan interaktif
+ULP00169,SPN0197,PGM007,2025-07-17,4,ios,Fitur latihan soalnya bagus sekali
+ULP00170,SPN0293,PGM024,2025-08-24,5,ios,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00171,SPN0127,PGM028,2025-08-24,2,web,Perlu fitur diskusi antar siswa
+ULP00172,SPN0085,PGM029,2024-12-05,5,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00173,SPN0002,PGM008,2024-11-27,3,android,Fitur tracking progress sangat membantu
+ULP00174,SPN0229,PGM007,2025-10-15,1,ios,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00175,SPN0228,PGM015,2024-11-10,4,web,Perlu fitur diskusi antar siswa
+ULP00176,SPN0195,PGM001,2025-07-25,4,ios,Paket premium worth it untuk persiapan ujian
+ULP00177,SPN0252,PGM014,2025-12-03,5,web,Guru pengajarnya kompeten dan berpengalaman
+ULP00178,SPN0011,PGM016,2025-01-23,4,web,Perlu fitur diskusi antar siswa
+ULP00179,SPN0106,PGM012,2023-10-02,4,android,Loading cepat dan jarang error
+ULP00180,SPN0194,PGM006,2025-12-19,3,ios,Guru pengajarnya kompeten dan berpengalaman
+ULP00181,SPN0181,PGM013,2024-01-27,2,web,Perlu ditambah lebih banyak latihan soal
+ULP00182,SPN0195,PGM020,2025-06-18,5,android,Customer service responsif dan membantu
+ULP00183,SPN0125,PGM021,2025-09-01,1,android,Materi sangat membantu untuk persiapan ujian
+ULP00184,SPN0200,PGM019,2025-10-20,3,ios,Soal-soal latihannya menantang dan variatif
+ULP00185,SPN0224,PGM024,2025-10-13,5,ios,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00186,SPN0131,PGM012,2025-08-08,2,web,Soal-soal latihannya menantang dan variatif
+ULP00187,SPN0081,PGM006,2025-01-24,5,android,Saya rekomendasikan untuk teman-teman saya
+ULP00188,SPN0272,PGM026,2025-05-02,5,web,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00189,SPN0025,PGM025,2024-01-01,1,ios,Fitur latihan soalnya bagus sekali
+ULP00190,SPN0284,PGM002,2024-05-04,1,web,Kualitas video perlu ditingkatkan
+ULP00191,SPN0077,PGM010,2024-12-15,5,web,Video pembelajarannya menarik dan interaktif
+ULP00192,SPN0118,PGM014,2024-02-06,2,ios,Perlu ditambah lebih banyak latihan soal
+ULP00193,SPN0048,PGM020,2024-04-16,3,android,Video pembelajarannya menarik dan interaktif
+ULP00194,SPN0148,PGM018,2024-07-28,5,ios,Perlu ditambah lebih banyak latihan soal
+ULP00195,SPN0009,PGM026,2025-07-03,4,ios,Fitur latihan soalnya bagus sekali
+ULP00196,SPN0052,PGM009,2024-12-27,3,web,Materi pembahasan soal sangat detail
+ULP00197,SPN0189,PGM024,2025-10-07,2,ios,Perlu ditambah lebih banyak latihan soal
+ULP00198,SPN0005,PGM011,2024-12-18,4,android,Materi sangat membantu untuk persiapan ujian
+ULP00199,SPN0257,PGM017,2023-10-07,3,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00200,SPN0241,PGM005,2025-06-21,2,android,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00201,SPN0294,PGM026,2024-06-04,3,web,Video pembelajarannya menarik dan interaktif
+ULP00202,SPN0057,PGM023,2025-04-11,2,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00203,SPN0022,PGM003,2025-08-20,1,web,Kualitas video perlu ditingkatkan
+ULP00204,SPN0271,PGM026,2025-11-15,4,web,Materi pembahasan soal sangat detail
+ULP00205,SPN0278,PGM024,2025-12-28,5,web,Konten gratis sudah cukup lengkap
+ULP00206,SPN0267,PGM012,2025-12-09,3,android,Fitur tracking progress sangat membantu
+ULP00207,SPN0129,PGM017,2025-11-11,2,web,Sangat cocok untuk belajar mandiri di rumah
+ULP00208,SPN0019,PGM007,2023-08-25,4,web,Materi sesuai kurikulum terbaru
+ULP00209,SPN0060,PGM020,2025-05-01,3,web,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00210,SPN0013,PGM011,2025-11-19,2,ios,Harga langganan sebanding dengan kualitas materi
+ULP00211,SPN0223,PGM025,2025-05-01,4,web,Customer service responsif dan membantu
+ULP00212,SPN0072,PGM021,2025-10-28,2,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00213,SPN0009,PGM029,2025-07-11,5,web,Soal-soal latihannya menantang dan variatif
+ULP00214,SPN0205,PGM015,2025-08-10,3,ios,Kualitas video perlu ditingkatkan
+ULP00215,SPN0067,PGM014,2025-05-08,2,ios,Konten gratis sudah cukup lengkap
+ULP00216,SPN0052,PGM010,2025-07-15,1,web,Fitur tracking progress sangat membantu
+ULP00217,SPN0222,PGM003,2025-03-25,3,android,Materi pembahasan soal sangat detail
+ULP00218,SPN0245,PGM002,2025-12-12,5,ios,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00219,SPN0170,PGM007,2025-03-29,5,ios,Materi sangat membantu untuk persiapan ujian
+ULP00220,SPN0052,PGM005,2025-03-30,1,android,Harga langganan sebanding dengan kualitas materi
+ULP00221,SPN0267,PGM012,2025-02-14,3,web,Perlu fitur diskusi antar siswa
+ULP00222,SPN0236,PGM012,2025-07-25,2,web,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00223,SPN0265,PGM019,2024-03-14,5,web,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00224,SPN0264,PGM002,2025-11-10,4,android,Butuh lebih banyak materi untuk kelas 12
+ULP00225,SPN0290,PGM017,2024-06-23,5,ios,Fitur tracking progress sangat membantu
+ULP00226,SPN0170,PGM022,2025-10-22,3,android,Konten gratis sudah cukup lengkap
+ULP00227,SPN0137,PGM005,2024-10-01,4,ios,Fitur latihan soalnya bagus sekali
+ULP00228,SPN0197,PGM009,2025-05-02,2,ios,Materi sesuai kurikulum terbaru
+ULP00229,SPN0007,PGM005,2024-04-27,3,ios,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00230,SPN0078,PGM014,2025-08-07,3,ios,Materi sangat membantu untuk persiapan ujian
+ULP00231,SPN0034,PGM006,2024-03-06,2,web,Fitur latihan soalnya bagus sekali
+ULP00232,SPN0113,PGM015,2025-07-08,5,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00233,SPN0041,PGM022,2025-11-20,5,web,Perlu fitur diskusi antar siswa
+ULP00234,SPN0191,PGM028,2025-11-11,5,web,Customer service responsif dan membantu
+ULP00235,SPN0286,PGM018,2025-02-28,4,web,Saya rekomendasikan untuk teman-teman saya
+ULP00236,SPN0080,PGM022,2025-11-23,5,android,Saya rekomendasikan untuk teman-teman saya
+ULP00237,SPN0143,PGM026,2025-05-05,4,ios,Perlu ditambah lebih banyak latihan soal
+ULP00238,SPN0012,PGM014,2025-08-01,2,android,Materi sesuai kurikulum terbaru
+ULP00239,SPN0256,PGM024,2025-06-10,1,android,Materi sesuai kurikulum terbaru
+ULP00240,SPN0132,PGM004,2024-10-15,3,ios,Perlu ditambah lebih banyak latihan soal
+ULP00241,SPN0238,PGM029,2023-12-22,5,android,Materi pembahasan soal sangat detail
+ULP00242,SPN0259,PGM012,2024-11-11,4,web,Customer service responsif dan membantu
+ULP00243,SPN0170,PGM010,2024-12-02,2,android,Soal-soal latihannya menantang dan variatif
+ULP00244,SPN0034,PGM025,2024-12-14,5,ios,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00245,SPN0208,PGM027,2025-06-04,2,web,Materi sangat membantu untuk persiapan ujian
+ULP00246,SPN0171,PGM012,2024-08-12,2,web,Soal-soal latihannya menantang dan variatif
+ULP00247,SPN0203,PGM019,2025-12-29,3,ios,Materi sesuai kurikulum terbaru
+ULP00248,SPN0125,PGM020,2025-10-25,2,ios,Perlu fitur diskusi antar siswa
+ULP00249,SPN0168,PGM019,2025-10-13,5,ios,Fitur latihan soalnya bagus sekali
+ULP00250,SPN0043,PGM026,2025-10-16,1,android,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00251,SPN0253,PGM029,2023-08-13,5,android,Konten gratis sudah cukup lengkap
+ULP00252,SPN0078,PGM002,2024-01-27,3,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00253,SPN0150,PGM027,2025-02-15,4,android,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00254,SPN0293,PGM003,2025-04-28,2,web,Guru pengajarnya kompeten dan berpengalaman
+ULP00255,SPN0052,PGM002,2024-09-19,5,android,Materi sangat membantu untuk persiapan ujian
+ULP00256,SPN0099,PGM026,2025-09-20,5,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00257,SPN0137,PGM019,2025-03-03,4,android,Fitur latihan soalnya bagus sekali
+ULP00258,SPN0146,PGM005,2024-10-01,3,web,Video pembelajarannya menarik dan interaktif
+ULP00259,SPN0264,PGM004,2025-09-28,4,android,Materi sesuai kurikulum terbaru
+ULP00260,SPN0017,PGM013,2025-04-16,4,android,Soal-soal latihannya menantang dan variatif
+ULP00261,SPN0232,PGM012,2025-10-11,2,android,Loading cepat dan jarang error
+ULP00262,SPN0206,PGM014,2025-10-24,5,web,Paket premium worth it untuk persiapan ujian
+ULP00263,SPN0168,PGM007,2025-08-05,3,android,Sangat cocok untuk belajar mandiri di rumah
+ULP00264,SPN0019,PGM003,2023-08-10,4,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00265,SPN0056,PGM015,2024-01-01,1,ios,Materi sesuai kurikulum terbaru
+ULP00266,SPN0171,PGM023,2025-03-06,3,android,Soal-soal latihannya menantang dan variatif
+ULP00267,SPN0223,PGM014,2023-11-20,5,android,Paket premium worth it untuk persiapan ujian
+ULP00268,SPN0283,PGM024,2025-11-21,2,android,Harga langganan sebanding dengan kualitas materi
+ULP00269,SPN0243,PGM021,2025-02-08,3,web,Harga langganan sebanding dengan kualitas materi
+ULP00270,SPN0177,PGM003,2025-10-17,1,web,Fitur tracking progress sangat membantu
+ULP00271,SPN0096,PGM027,2025-10-16,3,web,Loading cepat dan jarang error
+ULP00272,SPN0166,PGM015,2024-04-20,5,android,Loading cepat dan jarang error
+ULP00273,SPN0217,PGM022,2025-03-18,5,android,Loading cepat dan jarang error
+ULP00274,SPN0095,PGM001,2024-09-08,5,web,Fitur latihan soalnya bagus sekali
+ULP00275,SPN0250,PGM029,2025-01-07,1,ios,Perlu ditambah lebih banyak latihan soal
+ULP00276,SPN0263,PGM020,2025-12-05,5,ios,Butuh lebih banyak materi untuk kelas 12
+ULP00277,SPN0093,PGM014,2025-03-16,4,android,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00278,SPN0176,PGM026,2025-04-23,3,ios,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00279,SPN0248,PGM025,2025-03-26,2,ios,Guru pengajarnya kompeten dan berpengalaman
+ULP00280,SPN0259,PGM009,2025-03-12,3,android,Customer service responsif dan membantu
+ULP00281,SPN0101,PGM014,2024-06-13,3,android,Customer service responsif dan membantu
+ULP00282,SPN0281,PGM010,2025-05-19,5,web,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00283,SPN0146,PGM011,2024-09-07,3,android,Fitur latihan soalnya bagus sekali
+ULP00284,SPN0243,PGM027,2025-08-23,5,android,Customer service responsif dan membantu
+ULP00285,SPN0119,PGM030,2024-11-17,5,ios,Kualitas video perlu ditingkatkan
+ULP00286,SPN0136,PGM010,2024-08-27,5,android,Customer service responsif dan membantu
+ULP00287,SPN0131,PGM013,2025-08-17,1,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00288,SPN0114,PGM027,2025-09-19,2,ios,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00289,SPN0025,PGM003,2025-08-10,5,android,Materi pembahasan soal sangat detail
+ULP00290,SPN0214,PGM001,2025-04-16,5,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00291,SPN0157,PGM025,2025-11-25,4,web,Customer service responsif dan membantu
+ULP00292,SPN0110,PGM018,2025-12-14,3,ios,Perlu ditambah lebih banyak latihan soal
+ULP00293,SPN0200,PGM018,2025-10-16,2,android,Harga langganan sebanding dengan kualitas materi
+ULP00294,SPN0008,PGM022,2024-10-25,1,android,Perlu ditambah lebih banyak latihan soal
+ULP00295,SPN0246,PGM001,2025-01-03,1,android,Butuh lebih banyak materi untuk kelas 12
+ULP00296,SPN0133,PGM006,2025-10-22,4,web,Video pembelajarannya menarik dan interaktif
+ULP00297,SPN0219,PGM007,2025-06-12,3,web,Materi sesuai kurikulum terbaru
+ULP00298,SPN0278,PGM023,2025-12-30,4,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00299,SPN0063,PGM028,2023-11-05,5,ios,Penjelasan step-by-step sangat membantu pemahaman
+ULP00300,SPN0139,PGM006,2023-09-25,4,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00301,SPN0257,PGM025,2025-12-12,4,web,Saya rekomendasikan untuk teman-teman saya
+ULP00302,SPN0063,PGM016,2025-09-16,4,ios,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00303,SPN0048,PGM012,2024-08-21,3,ios,Materi pembahasan soal sangat detail
+ULP00304,SPN0129,PGM024,2025-08-03,5,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00305,SPN0045,PGM003,2023-11-03,1,ios,Saya rekomendasikan untuk teman-teman saya
+ULP00306,SPN0274,PGM007,2025-11-03,5,android,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00307,SPN0016,PGM011,2024-12-29,4,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00308,SPN0263,PGM025,2025-10-19,2,ios,Perlu fitur diskusi antar siswa
+ULP00309,SPN0248,PGM025,2025-06-21,4,ios,Butuh lebih banyak materi untuk kelas 12
+ULP00310,SPN0117,PGM027,2025-02-17,5,web,Materi pembahasan soal sangat detail
+ULP00311,SPN0235,PGM013,2025-02-21,4,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00312,SPN0019,PGM015,2023-12-20,1,web,Materi sangat membantu untuk persiapan ujian
+ULP00313,SPN0191,PGM021,2025-06-30,3,ios,Guru pengajarnya kompeten dan berpengalaman
+ULP00314,SPN0238,PGM003,2023-12-03,5,android,Saya rekomendasikan untuk teman-teman saya
+ULP00315,SPN0288,PGM025,2024-10-13,4,web,Soal-soal latihannya menantang dan variatif
+ULP00316,SPN0284,PGM018,2025-09-03,4,ios,Perlu fitur diskusi antar siswa
+ULP00317,SPN0017,PGM026,2025-12-26,4,ios,Materi sesuai kurikulum terbaru
+ULP00318,SPN0275,PGM027,2025-04-29,2,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00319,SPN0154,PGM022,2024-03-21,4,web,Sangat cocok untuk belajar mandiri di rumah
+ULP00320,SPN0144,PGM011,2025-03-11,5,android,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00321,SPN0039,PGM016,2024-03-11,4,web,Materi sangat membantu untuk persiapan ujian
+ULP00322,SPN0014,PGM010,2024-12-01,2,ios,Sangat cocok untuk belajar mandiri di rumah
+ULP00323,SPN0269,PGM020,2025-10-16,5,web,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00324,SPN0049,PGM009,2025-06-03,2,ios,Video pembelajarannya menarik dan interaktif
+ULP00325,SPN0296,PGM007,2025-03-23,5,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00326,SPN0142,PGM010,2025-12-05,4,ios,Loading cepat dan jarang error
+ULP00327,SPN0282,PGM030,2025-01-28,5,android,Materi sesuai kurikulum terbaru
+ULP00328,SPN0283,PGM022,2025-09-08,1,web,Penjelasan step-by-step sangat membantu pemahaman
+ULP00329,SPN0021,PGM010,2025-12-26,5,ios,Paket premium worth it untuk persiapan ujian
+ULP00330,SPN0171,PGM009,2024-06-05,1,ios,Customer service responsif dan membantu
+ULP00331,SPN0003,PGM004,2025-07-09,1,web,Fitur tracking progress sangat membantu
+ULP00332,SPN0278,PGM004,2025-12-26,2,android,Perlu ditambah lebih banyak latihan soal
+ULP00333,SPN0042,PGM011,2023-10-19,2,android,Loading cepat dan jarang error
+ULP00334,SPN0054,PGM021,2025-10-31,1,ios,Butuh lebih banyak materi untuk kelas 12
+ULP00335,SPN0065,PGM006,2025-12-31,3,web,Materi sangat membantu untuk persiapan ujian
+ULP00336,SPN0268,PGM029,2025-03-25,3,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00337,SPN0097,PGM016,2025-12-31,2,web,Harga langganan sebanding dengan kualitas materi
+ULP00338,SPN0199,PGM007,2025-08-07,2,ios,Fitur tracking progress sangat membantu
+ULP00339,SPN0211,PGM030,2025-12-15,2,ios,Perlu fitur diskusi antar siswa
+ULP00340,SPN0064,PGM023,2025-01-03,2,android,Soal-soal latihannya menantang dan variatif
+ULP00341,SPN0001,PGM004,2025-05-14,4,android,Tampilan aplikasi modern dan user-friendly
+ULP00342,SPN0066,PGM019,2024-11-30,5,android,Aplikasi kadang lambat tapi kontennya berkualitas
+ULP00343,SPN0128,PGM005,2025-11-08,1,ios,Butuh lebih banyak materi untuk kelas 12
+ULP00344,SPN0024,PGM024,2025-11-29,4,ios,Harga langganan sebanding dengan kualitas materi
+ULP00345,SPN0142,PGM004,2025-12-12,1,ios,Loading cepat dan jarang error
+ULP00346,SPN0057,PGM027,2024-08-14,3,web,Harga langganan sebanding dengan kualitas materi
+ULP00347,SPN0229,PGM005,2025-09-23,4,ios,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00348,SPN0167,PGM014,2024-10-03,4,android,Tampilan aplikasi modern dan user-friendly
+ULP00349,SPN0228,PGM022,2025-01-02,5,ios,Harga langganan sebanding dengan kualitas materi
+ULP00350,SPN0200,PGM012,2025-09-10,5,android,Perlu ditambah lebih banyak latihan soal
+ULP00351,SPN0251,PGM016,2025-03-14,3,web,Materi sangat membantu untuk persiapan ujian
+ULP00352,SPN0222,PGM015,2024-11-06,1,ios,Butuh lebih banyak materi untuk kelas 12
+ULP00353,SPN0235,PGM017,2025-01-19,2,ios,Materi sesuai kurikulum terbaru
+ULP00354,SPN0073,PGM010,2024-11-12,2,ios,Soal-soal latihannya menantang dan variatif
+ULP00355,SPN0272,PGM003,2025-11-18,3,web,Konten gratis sudah cukup lengkap
+ULP00356,SPN0115,PGM015,2025-02-10,4,web,Soal-soal latihannya menantang dan variatif
+ULP00357,SPN0200,PGM009,2025-09-03,3,web,Sangat cocok untuk belajar mandiri di rumah
+ULP00358,SPN0009,PGM025,2025-07-13,4,web,Perlu ditambah lebih banyak latihan soal
+ULP00359,SPN0283,PGM017,2025-12-05,5,ios,Tampilan aplikasi modern dan user-friendly
+ULP00360,SPN0190,PGM017,2024-07-10,4,web,Paket premium worth it untuk persiapan ujian
+ULP00361,SPN0265,PGM026,2024-09-21,4,ios,Fitur latihan soalnya bagus sekali
+ULP00362,SPN0291,PGM029,2025-05-17,2,web,Tampilan aplikasi modern dan user-friendly
+ULP00363,SPN0126,PGM025,2025-11-30,4,android,Perlu fitur diskusi antar siswa
+ULP00364,SPN0295,PGM026,2025-12-13,5,android,Soal-soal latihannya menantang dan variatif
+ULP00365,SPN0271,PGM001,2025-10-03,5,web,Penjelasan step-by-step sangat membantu pemahaman
+ULP00366,SPN0284,PGM014,2025-03-25,3,web,Harga langganan sebanding dengan kualitas materi
+ULP00367,SPN0096,PGM004,2025-04-03,4,web,Tampilan aplikasi modern dan user-friendly
+ULP00368,SPN0140,PGM019,2024-12-03,4,android,Perlu fitur diskusi antar siswa
+ULP00369,SPN0290,PGM019,2025-04-16,1,web,Perlu fitur diskusi antar siswa
+ULP00370,SPN0101,PGM029,2025-01-09,2,web,Belajar jadi lebih menyenangkan dengan platform ini
+ULP00371,SPN0242,PGM025,2025-08-27,3,web,Perlu ditambah lebih banyak latihan soal
+ULP00372,SPN0221,PGM018,2024-12-30,4,ios,Customer service responsif dan membantu
+ULP00373,SPN0071,PGM008,2025-12-04,5,ios,Kualitas video perlu ditingkatkan
+ULP00374,SPN0212,PGM018,2025-11-15,1,android,Materi pembahasan soal sangat detail
+ULP00375,SPN0226,PGM023,2025-06-03,2,ios,Harga langganan sebanding dengan kualitas materi
+ULP00376,SPN0190,PGM004,2023-11-30,2,android,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00377,SPN0062,PGM009,2025-11-05,4,web,Harga langganan sebanding dengan kualitas materi
+ULP00378,SPN0048,PGM011,2024-10-22,4,ios,Tampilan aplikasi modern dan user-friendly
+ULP00379,SPN0275,PGM024,2025-08-12,5,ios,Penjelasan guru cukup jelas dan mudah dipahami
+ULP00380,SPN0244,PGM023,2025-08-14,3,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00381,SPN0004,PGM030,2025-12-20,5,ios,Cocok untuk persiapan UTBK dan ujian nasional
+ULP00382,SPN0170,PGM004,2024-12-06,3,ios,Customer service responsif dan membantu
+ULP00383,SPN0143,PGM001,2024-11-15,4,web,Penjelasan step-by-step sangat membantu pemahaman
+ULP00384,SPN0232,PGM018,2025-04-18,1,ios,Konten gratis sudah cukup lengkap
+ULP00385,SPN0293,PGM001,2025-08-26,2,ios,Perlu ditambah lebih banyak latihan soal
+ULP00386,SPN0024,PGM024,2025-12-06,2,ios,Harga langganan sebanding dengan kualitas materi
+ULP00387,SPN0068,PGM010,2025-03-14,1,web,Perlu ditambah lebih banyak latihan soal
+ULP00388,SPN0069,PGM002,2025-01-10,4,android,Harga langganan sebanding dengan kualitas materi
+ULP00389,SPN0188,PGM021,2025-09-11,5,web,Paket premium worth it untuk persiapan ujian
+ULP00390,SPN0222,PGM005,2024-07-31,5,ios,Soal-soal latihannya menantang dan variatif
+ULP00391,SPN0194,PGM001,2025-02-06,3,android,Video pembelajarannya menarik dan interaktif
+ULP00392,SPN0216,PGM004,2024-10-23,4,ios,Fitur latihan soalnya bagus sekali
+ULP00393,SPN0079,PGM014,2025-12-06,3,android,Video pembelajarannya menarik dan interaktif
+ULP00394,SPN0137,PGM023,2025-10-23,4,android,Saya rekomendasikan untuk teman-teman saya
+ULP00395,SPN0300,PGM011,2025-08-08,2,android,Materi pembahasan soal sangat detail
+ULP00396,SPN0291,PGM007,2025-11-08,3,android,Kualitas video perlu ditingkatkan
+ULP00397,SPN0143,PGM011,2024-05-28,4,android,Penjelasan step-by-step sangat membantu pemahaman
+ULP00398,SPN0011,PGM007,2024-10-11,2,android,Kualitas video perlu ditingkatkan
+ULP00399,SPN0047,PGM028,2025-02-01,1,android,Sangat cocok untuk belajar mandiri di rumah
+ULP00400,SPN0028,PGM008,2025-10-30,5,ios,Materi pembahasan soal sangat detail

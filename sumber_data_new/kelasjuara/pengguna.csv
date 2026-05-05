@@ -1,0 +1,251 @@
+user_id,nama,email_user,jenjang_pendidikan,kelas,asal_provinsi,created_date
+USR0001,Fajar Fadilah,fajar.fadilah1@kelasjuara.id,SMP,8,Jawa Tengah,2023-06-13
+USR0002,Fitri Permana,fitri.permana2@kelasjuara.id,SMA,11,Nusa Tenggara Timur,2025-07-17
+USR0003,Salsa Kusuma,salsa.kusuma3@kelasjuara.id,SMP,8,Sumatera Barat,2024-12-28
+USR0004,Cahya Fadilah,cahya.fadilah4@kelasjuara.id,SMA,12,Sumatera Utara,2023-05-27
+USR0005,Maya Iskandar,maya.iskandar5@kelasjuara.id,SMP,9,Jawa Barat,2024-05-16
+USR0006,Vina Darmawan,vina.darmawan6@kelasjuara.id,SMA,11,Jawa Barat,2024-03-25
+USR0007,Fira Ramadhan,fira.ramadhan7@kelasjuara.id,SMP,7,Jawa Barat,2023-03-07
+USR0008,Sinta Hartono,sinta.hartono8@kelasjuara.id,SMA,10,Sulawesi Selatan,2024-03-08
+USR0009,Gina Putranto,gina.putranto9@kelasjuara.id,SMA,10,Sumatera Utara,2025-10-19
+USR0010,Fauzi Sulistyo,fauzi.sulistyo10@kelasjuara.id,SMA,10,Riau,2024-06-26
+USR0011,Sari Utami,sari.utami11@kelasjuara.id,SMA,12,Jawa Barat,2025-05-27
+USR0012,Intan Hartono,intan.hartono12@kelasjuara.id,SMA,10,Papua,2023-10-11
+USR0013,Yoga Ardiansyah,yoga.ardiansyah13@kelasjuara.id,SMP,7,Kalimantan Tengah,2023-08-13
+USR0014,Umi Iskandar,umi.iskandar14@kelasjuara.id,SMP,9,Jawa Timur,2025-05-14
+USR0015,Laras Setiawan,laras.setiawan15@kelasjuara.id,SMA,11,Jawa Timur,2025-08-16
+USR0016,Arif Firmansyah,arif.firmansyah16@kelasjuara.id,SMP,9,Jawa Timur,2023-08-23
+USR0017,Fira Dewanti,fira.dewanti17@kelasjuara.id,SMA,12,Jawa Timur,2024-11-27
+USR0018,Oktavia Cahyani,oktavia.cahyani18@kelasjuara.id,SMA,10,Banten,2025-07-18
+USR0019,Ahmad Adriani,ahmad.adriani19@kelasjuara.id,SMA,12,Jawa Tengah,2024-01-01
+USR0020,Wulan Permana,wulan.permana20@kelasjuara.id,SMA,12,Jawa Timur,2025-11-05
+USR0021,Maya Rahayu,maya.rahayu21@kelasjuara.id,SMP,8,Sumatera Utara,2023-11-27
+USR0022,Doni Siagian,doni.siagian22@kelasjuara.id,SMP,9,Jawa Barat,2024-10-25
+USR0023,Tara Susanto,tara.susanto23@kelasjuara.id,SMP,8,Jawa Timur,2024-09-21
+USR0024,Galih Handoko,galih.handoko24@kelasjuara.id,SMP,9,Jawa Tengah,2023-06-11
+USR0025,Kartika Adriani,kartika.adriani25@kelasjuara.id,SMA,10,DKI Jakarta,2025-12-26
+USR0026,Alya Hidayat,alya.hidayat26@kelasjuara.id,SMP,9,Kalimantan Timur,2025-08-31
+USR0027,Elsa Nugroho,elsa.nugroho27@kelasjuara.id,SMA,12,Jawa Timur,2025-05-16
+USR0028,Dian Dewanti,dian.dewanti28@kelasjuara.id,SMP,9,Banten,2024-09-30
+USR0029,Gilang Fadilah,gilang.fadilah29@kelasjuara.id,SMA,11,Sumatera Utara,2025-11-25
+USR0030,Mira Kurniawan,mira.kurniawan30@kelasjuara.id,SMP,7,Jawa Barat,2023-05-12
+USR0031,Vera Susanto,vera.susanto31@kelasjuara.id,SMP,9,Sumatera Utara,2024-03-27
+USR0032,Ahmad Setiawan,ahmad.setiawan32@kelasjuara.id,SMP,7,Jawa Timur,2023-05-19
+USR0033,Eka Anggraeni,eka.anggraeni33@kelasjuara.id,SMP,9,Jawa Barat,2024-05-02
+USR0034,Lina Fadilah,lina.fadilah34@kelasjuara.id,SMA,10,Nusa Tenggara Timur,2023-09-28
+USR0035,Nabila Prabowo,nabila.prabowo35@kelasjuara.id,SMA,10,Papua,2025-08-26
+USR0036,Hana Rahayu,hana.rahayu36@kelasjuara.id,SMP,7,Kalimantan Selatan,2025-06-01
+USR0037,Yuni Suryadi,yuni.suryadi37@kelasjuara.id,SMA,11,Jawa Timur,2023-04-21
+USR0038,Dimas Sulistyo,dimas.sulistyo38@kelasjuara.id,SMP,7,Jawa Barat,2025-04-04
+USR0039,Rahma Anggraeni,rahma.anggraeni39@kelasjuara.id,SMP,7,Lampung,2024-01-28
+USR0040,Agus Dewanti,agus.dewanti40@kelasjuara.id,SMA,10,DKI Jakarta,2025-05-14
+USR0041,Zahra Maharani,zahra.maharani41@kelasjuara.id,SMA,10,Jawa Barat,2023-06-04
+USR0042,Lukman Hermawan,lukman.hermawan42@kelasjuara.id,SMP,7,Banten,2023-01-31
+USR0043,Lestari Tanjung,lestari.tanjung43@kelasjuara.id,SMP,7,Jawa Barat,2025-04-12
+USR0044,Tara Budiman,tara.budiman44@kelasjuara.id,SMP,8,Bali,2023-05-01
+USR0045,Wati Wibisono,wati.wibisono45@kelasjuara.id,SMP,8,Jawa Timur,2024-06-27
+USR0046,Nisa Cahyani,nisa.cahyani46@kelasjuara.id,SMA,12,Lampung,2025-09-23
+USR0047,Umi Rahayu,umi.rahayu47@kelasjuara.id,SMA,10,Jawa Tengah,2023-04-30
+USR0048,Intan Halim,intan.halim48@kelasjuara.id,SMP,9,Banten,2024-10-04
+USR0049,Hadi Handoko,hadi.handoko49@kelasjuara.id,SMA,12,DI Yogyakarta,2025-12-23
+USR0050,Vina Handoko,vina.handoko50@kelasjuara.id,SMP,7,Jawa Timur,2023-05-21
+USR0051,Laras Setiawan,laras.setiawan51@kelasjuara.id,SMP,8,Papua,2023-09-03
+USR0052,Gina Utami,gina.utami52@kelasjuara.id,SMP,9,Kalimantan Timur,2023-06-17
+USR0053,Irma Fadilah,irma.fadilah53@kelasjuara.id,SMA,11,Nusa Tenggara Barat,2024-02-23
+USR0054,Ayu Putranto,ayu.putranto54@kelasjuara.id,SMA,10,Sulawesi Tengah,2024-06-27
+USR0055,Fauzi Hidayat,fauzi.hidayat55@kelasjuara.id,SMA,11,Sumatera Utara,2024-10-09
+USR0056,Winda Setiawan,winda.setiawan56@kelasjuara.id,SMP,8,Bali,2023-07-24
+USR0057,Joko Dewanti,joko.dewanti57@kelasjuara.id,SMP,9,Jawa Barat,2024-06-27
+USR0058,Rina Fitriani,rina.fitriani58@kelasjuara.id,SMP,7,Jawa Timur,2025-01-26
+USR0059,Mega Nugroho,mega.nugroho59@kelasjuara.id,SMA,12,Jawa Barat,2024-09-11
+USR0060,Nova Sulistyo,nova.sulistyo60@kelasjuara.id,SMP,9,Jawa Tengah,2024-09-05
+USR0061,Rizki Permana,rizki.permana61@kelasjuara.id,SMP,8,Jawa Tengah,2023-08-25
+USR0062,Nur Halim,nur.halim62@kelasjuara.id,SMP,8,Jawa Timur,2024-07-31
+USR0063,Maya Saputra,maya.saputra63@kelasjuara.id,SMA,10,Kalimantan Tengah,2024-06-24
+USR0064,Wulan Ardiansyah,wulan.ardiansyah64@kelasjuara.id,SMA,10,Jawa Tengah,2023-07-09
+USR0065,Salsa Suryadi,salsa.suryadi65@kelasjuara.id,SMA,10,Jawa Timur,2023-01-08
+USR0066,Umar Siagian,umar.siagian66@kelasjuara.id,SMP,9,DI Yogyakarta,2024-06-20
+USR0067,Vina Halim,vina.halim67@kelasjuara.id,SMA,12,Jawa Barat,2025-05-25
+USR0068,Fahri Wijaya,fahri.wijaya68@kelasjuara.id,SMP,7,Kalimantan Selatan,2023-11-02
+USR0069,Doni Pratama,doni.pratama69@kelasjuara.id,SMA,12,Jawa Barat,2023-10-31
+USR0070,Kiki Hidayat,kiki.hidayat70@kelasjuara.id,SMP,8,Papua Barat,2025-01-16
+USR0071,Fajar Fitriani,fajar.fitriani71@kelasjuara.id,SMP,9,Kalimantan Timur,2024-05-26
+USR0072,Ayu Permana,ayu.permana72@kelasjuara.id,SMA,12,Jawa Timur,2025-04-12
+USR0073,Omar Halim,omar.halim73@kelasjuara.id,SMP,7,Jawa Barat,2023-11-29
+USR0074,Yusuf Prasetyo,yusuf.prasetyo74@kelasjuara.id,SMP,7,Kalimantan Barat,2024-11-11
+USR0075,Hana Fadilah,hana.fadilah75@kelasjuara.id,SMP,8,Riau,2023-11-23
+USR0076,Ilham Permana,ilham.permana76@kelasjuara.id,SMA,10,Sumatera Barat,2025-08-21
+USR0077,Endang Rahayu,endang.rahayu77@kelasjuara.id,SMA,11,Kalimantan Timur,2024-09-17
+USR0078,Fitri Purnama,fitri.purnama78@kelasjuara.id,SMP,9,Jawa Barat,2024-01-31
+USR0079,Gilang Anggraeni,gilang.anggraeni79@kelasjuara.id,SMA,10,Jawa Tengah,2024-07-25
+USR0080,Widya Sulistyo,widya.sulistyo80@kelasjuara.id,SMA,12,Jawa Barat,2024-11-09
+USR0081,Dewi Kurniawan,dewi.kurniawan81@kelasjuara.id,SMA,10,Sulawesi Selatan,2024-06-27
+USR0082,Eka Permana,eka.permana82@kelasjuara.id,SMA,11,Sumatera Selatan,2024-10-04
+USR0083,Kiki Yulianto,kiki.yulianto83@kelasjuara.id,SMP,8,Jawa Tengah,2024-01-25
+USR0084,Ika Pratama,ika.pratama84@kelasjuara.id,SMA,10,Jawa Barat,2025-11-30
+USR0085,Bella Anwar,bella.anwar85@kelasjuara.id,SMP,8,Jawa Tengah,2025-06-02
+USR0086,Indah Fadilah,indah.fadilah86@kelasjuara.id,SMA,12,Jawa Tengah,2024-10-04
+USR0087,Rizki Kurniawan,rizki.kurniawan87@kelasjuara.id,SMA,12,Sumatera Barat,2024-09-25
+USR0088,Ayu Prasetyo,ayu.prasetyo88@kelasjuara.id,SMA,11,Sumatera Selatan,2024-08-28
+USR0089,Elsa Hidayat,elsa.hidayat89@kelasjuara.id,SMP,8,Sulawesi Tengah,2025-02-15
+USR0090,Dimas Halim,dimas.halim90@kelasjuara.id,SMP,9,DKI Jakarta,2024-09-08
+USR0091,Gilang Hermawan,gilang.hermawan91@kelasjuara.id,SMP,8,Jawa Barat,2024-08-10
+USR0092,Cahya Suryadi,cahya.suryadi92@kelasjuara.id,SMA,11,Riau,2025-06-23
+USR0093,Lukman Anwar,lukman.anwar93@kelasjuara.id,SMP,9,Aceh,2025-08-27
+USR0094,Syifa Nugroho,syifa.nugroho94@kelasjuara.id,SMP,8,Sumatera Utara,2025-11-21
+USR0095,Rizki Iskandar,rizki.iskandar95@kelasjuara.id,SMA,10,Kalimantan Timur,2024-04-26
+USR0096,Dimas Hakim,dimas.hakim96@kelasjuara.id,SMP,7,Banten,2023-10-29
+USR0097,Dewi Pratama,dewi.pratama97@kelasjuara.id,SMP,8,Banten,2023-05-30
+USR0098,Nisa Prasetyo,nisa.prasetyo98@kelasjuara.id,SMP,9,Jawa Tengah,2025-02-25
+USR0099,Vivi Hartono,vivi.hartono99@kelasjuara.id,SMP,7,Jawa Barat,2023-01-12
+USR0100,Winda Siagian,winda.siagian100@kelasjuara.id,SMP,8,Jawa Barat,2024-03-24
+USR0101,Yusuf Rachmawati,yusuf.rachmawati101@kelasjuara.id,SMA,10,Jawa Barat,2024-05-25
+USR0102,Putra Darmawan,putra.darmawan102@kelasjuara.id,SMP,8,Sumatera Selatan,2025-12-23
+USR0103,Fahri Yulianto,fahri.yulianto103@kelasjuara.id,SMA,11,Jawa Tengah,2025-10-30
+USR0104,Jasmine Hermawan,jasmine.hermawan104@kelasjuara.id,SMA,10,Banten,2025-08-30
+USR0105,Mira Firmansyah,mira.firmansyah105@kelasjuara.id,SMP,9,Bali,2024-07-21
+USR0106,Alya Siagian,alya.siagian106@kelasjuara.id,SMA,12,Jawa Timur,2024-05-04
+USR0107,Lina Wahyuni,lina.wahyuni107@kelasjuara.id,SMP,9,Jawa Tengah,2024-08-08
+USR0108,Galih Maharani,galih.maharani108@kelasjuara.id,SMA,11,Jambi,2023-06-15
+USR0109,Sari Santoso,sari.santoso109@kelasjuara.id,SMP,8,Jawa Timur,2023-11-09
+USR0110,Luki Saputra,luki.saputra110@kelasjuara.id,SMP,8,Jawa Barat,2025-04-14
+USR0111,Umar Dewanti,umar.dewanti111@kelasjuara.id,SMA,11,Jawa Timur,2023-05-08
+USR0112,Cahya Prasetyo,cahya.prasetyo112@kelasjuara.id,SMA,12,Jawa Barat,2023-02-10
+USR0113,Yuda Prabowo,yuda.prabowo113@kelasjuara.id,SMA,11,Nusa Tenggara Barat,2023-01-13
+USR0114,Yuni Hakim,yuni.hakim114@kelasjuara.id,SMA,11,Kalimantan Selatan,2024-03-27
+USR0115,Tara Purnama,tara.purnama115@kelasjuara.id,SMA,11,Sumatera Selatan,2025-09-21
+USR0116,Dewi Wibisono,dewi.wibisono116@kelasjuara.id,SMA,12,Sulawesi Utara,2025-04-08
+USR0117,Nabila Nugroho,nabila.nugroho117@kelasjuara.id,SMA,10,Kalimantan Selatan,2025-12-29
+USR0118,Dewi Hartono,dewi.hartono118@kelasjuara.id,SMP,7,Jawa Timur,2025-05-27
+USR0119,Sari Darmawan,sari.darmawan119@kelasjuara.id,SMP,7,Sulawesi Tengah,2024-06-16
+USR0120,Dina Ramadhan,dina.ramadhan120@kelasjuara.id,SMP,8,DI Yogyakarta,2024-10-31
+USR0121,Vera Tanjung,vera.tanjung121@kelasjuara.id,SMA,11,Kalimantan Selatan,2025-05-13
+USR0122,Ika Gunawan,ika.gunawan122@kelasjuara.id,SMA,10,Sulawesi Tengah,2023-04-17
+USR0123,Widya Purnama,widya.purnama123@kelasjuara.id,SMP,9,Jawa Tengah,2023-03-24
+USR0124,Winda Susanto,winda.susanto124@kelasjuara.id,SMP,7,Jawa Barat,2023-02-11
+USR0125,Omar Santoso,omar.santoso125@kelasjuara.id,SMP,7,Jawa Timur,2025-08-27
+USR0126,Ayu Kurniawan,ayu.kurniawan126@kelasjuara.id,SMP,8,Jawa Tengah,2024-06-08
+USR0127,Alya Kusuma,alya.kusuma127@kelasjuara.id,SMP,9,Kalimantan Barat,2023-08-23
+USR0128,Bagus Nugroho,bagus.nugroho128@kelasjuara.id,SMA,10,Sulawesi Selatan,2023-02-22
+USR0129,Rafi Prabowo,rafi.prabowo129@kelasjuara.id,SMA,11,Jawa Barat,2024-02-11
+USR0130,Joko Suryana,joko.suryana130@kelasjuara.id,SMP,7,Banten,2024-09-09
+USR0131,Fira Yulianto,fira.yulianto131@kelasjuara.id,SMP,9,Jawa Tengah,2023-03-26
+USR0132,Widya Dewanti,widya.dewanti132@kelasjuara.id,SMA,12,Jawa Timur,2025-01-28
+USR0133,Indah Safitri,indah.safitri133@kelasjuara.id,SMA,10,Jawa Barat,2025-05-10
+USR0134,Tara Permana,tara.permana134@kelasjuara.id,SMA,11,Jawa Tengah,2025-07-30
+USR0135,Luki Santoso,luki.santoso135@kelasjuara.id,SMA,10,Nusa Tenggara Barat,2025-12-04
+USR0136,Ulfah Maharani,ulfah.maharani136@kelasjuara.id,SMA,11,Jawa Tengah,2025-06-11
+USR0137,Rahma Suryana,rahma.suryana137@kelasjuara.id,SMA,11,Banten,2024-05-17
+USR0138,Lestari Maharani,lestari.maharani138@kelasjuara.id,SMA,10,Riau,2025-08-09
+USR0139,Gina Nuraini,gina.nuraini139@kelasjuara.id,SMA,11,Jawa Tengah,2023-02-28
+USR0140,Vivi Ramadhan,vivi.ramadhan140@kelasjuara.id,SMP,8,Papua,2024-03-10
+USR0141,Yuni Firmansyah,yuni.firmansyah141@kelasjuara.id,SMA,11,Papua,2024-07-19
+USR0142,Fahri Wijaya,fahri.wijaya142@kelasjuara.id,SMP,7,Jawa Timur,2024-05-09
+USR0143,Nabila Prasetyo,nabila.prasetyo143@kelasjuara.id,SMA,12,Banten,2024-05-07
+USR0144,Hasan Budiman,hasan.budiman144@kelasjuara.id,SMA,11,Jawa Timur,2023-02-05
+USR0145,Lestari Cahyani,lestari.cahyani145@kelasjuara.id,SMP,8,Jawa Timur,2024-05-13
+USR0146,Rafi Fadilah,rafi.fadilah146@kelasjuara.id,SMA,11,Jawa Barat,2025-12-23
+USR0147,Widya Suryadi,widya.suryadi147@kelasjuara.id,SMA,11,Sumatera Utara,2025-07-18
+USR0148,Kurnia Hakim,kurnia.hakim148@kelasjuara.id,SMA,10,Banten,2023-09-05
+USR0149,Nabila Rahayu,nabila.rahayu149@kelasjuara.id,SMA,10,Jawa Barat,2024-01-15
+USR0150,Agus Saputra,agus.saputra150@kelasjuara.id,SMA,11,Jawa Timur,2025-12-10
+USR0151,Laras Cahyani,laras.cahyani151@kelasjuara.id,SMP,7,Bali,2024-08-29
+USR0152,Fitri Kusuma,fitri.kusuma152@kelasjuara.id,SMP,8,Jawa Timur,2023-01-29
+USR0153,Luki Dewanti,luki.dewanti153@kelasjuara.id,SMP,8,Jawa Barat,2023-04-04
+USR0154,Gita Hermawan,gita.hermawan154@kelasjuara.id,SMA,12,DKI Jakarta,2023-09-16
+USR0155,Salsa Tanjung,salsa.tanjung155@kelasjuara.id,SMA,10,Papua Barat,2023-01-26
+USR0156,Haris Cahyani,haris.cahyani156@kelasjuara.id,SMA,11,Jawa Timur,2025-06-21
+USR0157,Vera Wibowo,vera.wibowo157@kelasjuara.id,SMP,8,Lampung,2025-09-05
+USR0158,Oktavia Setiawan,oktavia.setiawan158@kelasjuara.id,SMA,11,Aceh,2023-06-01
+USR0159,Haris Iskandar,haris.iskandar159@kelasjuara.id,SMP,7,Jawa Timur,2023-11-02
+USR0160,Gina Hakim,gina.hakim160@kelasjuara.id,SMP,7,Sumatera Barat,2023-08-31
+USR0161,Fahri Tanjung,fahri.tanjung161@kelasjuara.id,SMA,12,Jawa Tengah,2024-04-07
+USR0162,Bagus Mulyani,bagus.mulyani162@kelasjuara.id,SMA,11,Sumatera Selatan,2025-06-25
+USR0163,Putri Suryana,putri.suryana163@kelasjuara.id,SMA,11,Sumatera Selatan,2023-05-04
+USR0164,Nova Halim,nova.halim164@kelasjuara.id,SMP,7,Banten,2024-03-08
+USR0165,Jihan Fadilah,jihan.fadilah165@kelasjuara.id,SMP,7,Jawa Barat,2024-05-06
+USR0166,Yusuf Hermawan,yusuf.hermawan166@kelasjuara.id,SMP,7,Kalimantan Tengah,2023-01-06
+USR0167,Hana Wahyuni,hana.wahyuni167@kelasjuara.id,SMA,11,Jawa Tengah,2023-03-08
+USR0168,Fitri Cahyani,fitri.cahyani168@kelasjuara.id,SMA,12,Jawa Timur,2025-07-18
+USR0169,Joko Anwar,joko.anwar169@kelasjuara.id,SMP,8,Jawa Barat,2024-02-10
+USR0170,Jasmine Kurniawan,jasmine.kurniawan170@kelasjuara.id,SMP,9,Sumatera Utara,2023-11-02
+USR0171,Kurnia Santoso,kurnia.santoso171@kelasjuara.id,SMP,7,Lampung,2023-12-06
+USR0172,Rafi Yulianto,rafi.yulianto172@kelasjuara.id,SMA,11,Jawa Barat,2023-09-12
+USR0173,Pandu Rachmawati,pandu.rachmawati173@kelasjuara.id,SMA,12,Banten,2025-04-04
+USR0174,Kurnia Safitri,kurnia.safitri174@kelasjuara.id,SMA,11,Jawa Timur,2023-06-14
+USR0175,Laras Pratama,laras.pratama175@kelasjuara.id,SMA,12,Sumatera Selatan,2024-10-22
+USR0176,Maya Firmansyah,maya.firmansyah176@kelasjuara.id,SMP,7,Jawa Timur,2024-04-13
+USR0177,Dimas Prabowo,dimas.prabowo177@kelasjuara.id,SMP,9,Riau,2024-07-05
+USR0178,Haris Pratama,haris.pratama178@kelasjuara.id,SMP,8,Jawa Tengah,2025-11-28
+USR0179,Ulfah Wahyuni,ulfah.wahyuni179@kelasjuara.id,SMA,10,Nusa Tenggara Barat,2025-06-11
+USR0180,Salsa Ardiansyah,salsa.ardiansyah180@kelasjuara.id,SMP,8,Jawa Barat,2024-12-13
+USR0181,Hana Anggraeni,hana.anggraeni181@kelasjuara.id,SMA,12,Jawa Tengah,2023-08-03
+USR0182,Vina Anggraeni,vina.anggraeni182@kelasjuara.id,SMA,12,Jawa Barat,2025-10-11
+USR0183,Mega Fadilah,mega.fadilah183@kelasjuara.id,SMA,12,Bali,2023-03-17
+USR0184,Nisa Gunawan,nisa.gunawan184@kelasjuara.id,SMA,11,Sulawesi Utara,2024-10-24
+USR0185,Oktavia Siagian,oktavia.siagian185@kelasjuara.id,SMA,12,Jawa Timur,2023-01-03
+USR0186,Rizki Dewanti,rizki.dewanti186@kelasjuara.id,SMA,11,Lampung,2023-04-22
+USR0187,Agus Mulyani,agus.mulyani187@kelasjuara.id,SMA,12,Kalimantan Barat,2025-10-17
+USR0188,Rama Wahyuni,rama.wahyuni188@kelasjuara.id,SMP,7,Sumatera Utara,2024-06-30
+USR0189,Elsa Hidayat,elsa.hidayat189@kelasjuara.id,SMA,11,Banten,2025-09-19
+USR0190,Putra Susanto,putra.susanto190@kelasjuara.id,SMP,9,Jawa Timur,2023-11-21
+USR0191,Rafi Hermawan,rafi.hermawan191@kelasjuara.id,SMP,9,Jawa Barat,2025-04-15
+USR0192,Lestari Purnama,lestari.purnama192@kelasjuara.id,SMP,8,Sulawesi Tengah,2023-08-29
+USR0193,Tiara Santoso,tiara.santoso193@kelasjuara.id,SMA,12,Sulawesi Tenggara,2024-08-20
+USR0194,Yoga Putranto,yoga.putranto194@kelasjuara.id,SMA,11,Sumatera Selatan,2025-09-15
+USR0195,Riska Utami,riska.utami195@kelasjuara.id,SMA,12,Jawa Tengah,2023-10-24
+USR0196,Eko Rahayu,eko.rahayu196@kelasjuara.id,SMP,7,Jawa Tengah,2024-07-19
+USR0197,Alya Prasetyo,alya.prasetyo197@kelasjuara.id,SMA,12,Sumatera Barat,2024-07-01
+USR0198,Ahmad Cahyani,ahmad.cahyani198@kelasjuara.id,SMA,12,Sulawesi Tengah,2025-09-29
+USR0199,Umi Wahyuni,umi.wahyuni199@kelasjuara.id,SMA,11,Sulawesi Tengah,2024-11-11
+USR0200,Elsa Tanjung,elsa.tanjung200@kelasjuara.id,SMA,11,Kalimantan Timur,2024-10-21
+USR0201,Agus Rachmawati,agus.rachmawati201@kelasjuara.id,SMP,9,Sumatera Selatan,2025-02-23
+USR0202,Fitri Siagian,fitri.siagian202@kelasjuara.id,SMA,10,Jawa Barat,2024-10-13
+USR0203,Taufan Budiman,taufan.budiman203@kelasjuara.id,SMA,11,Jawa Barat,2023-11-08
+USR0204,Vivi Pratama,vivi.pratama204@kelasjuara.id,SMP,9,Sulawesi Tenggara,2024-11-10
+USR0205,Muhammad Wahyuni,muhammad.wahyuni205@kelasjuara.id,SMP,9,Sumatera Utara,2025-07-24
+USR0206,Budi Adriani,budi.adriani206@kelasjuara.id,SMP,8,Jawa Barat,2023-11-13
+USR0207,Joko Budiman,joko.budiman207@kelasjuara.id,SMA,11,Jawa Barat,2025-03-25
+USR0208,Ulfah Gunawan,ulfah.gunawan208@kelasjuara.id,SMA,12,Lampung,2025-12-28
+USR0209,Dina Ramadhan,dina.ramadhan209@kelasjuara.id,SMA,12,Jawa Barat,2023-03-15
+USR0210,Omar Setiawan,omar.setiawan210@kelasjuara.id,SMP,9,Jawa Barat,2024-08-11
+USR0211,Fitri Halim,fitri.halim211@kelasjuara.id,SMP,8,DI Yogyakarta,2023-07-21
+USR0212,Yuda Iskandar,yuda.iskandar212@kelasjuara.id,SMP,8,Riau,2023-12-07
+USR0213,Hasan Hakim,hasan.hakim213@kelasjuara.id,SMP,7,Lampung,2024-10-26
+USR0214,Hadi Cahyani,hadi.cahyani214@kelasjuara.id,SMA,11,Jawa Timur,2025-06-01
+USR0215,Taufik Utami,taufik.utami215@kelasjuara.id,SMA,12,Riau,2024-01-04
+USR0216,Wati Wibowo,wati.wibowo216@kelasjuara.id,SMP,9,Jawa Timur,2025-02-22
+USR0217,Omar Anwar,omar.anwar217@kelasjuara.id,SMP,8,Jawa Tengah,2023-10-21
+USR0218,Fitri Darmawan,fitri.darmawan218@kelasjuara.id,SMA,11,Jambi,2024-06-06
+USR0219,Ayu Wijaya,ayu.wijaya219@kelasjuara.id,SMA,11,Lampung,2023-11-20
+USR0220,Joko Wahyuni,joko.wahyuni220@kelasjuara.id,SMA,12,Sulawesi Selatan,2024-09-04
+USR0221,Salsa Suryadi,salsa.suryadi221@kelasjuara.id,SMA,11,Lampung,2024-09-10
+USR0222,Bayu Wibisono,bayu.wibisono222@kelasjuara.id,SMA,10,Sumatera Utara,2024-04-30
+USR0223,Dina Prabowo,dina.prabowo223@kelasjuara.id,SMA,12,Jawa Barat,2024-08-28
+USR0224,Ilham Cahyani,ilham.cahyani224@kelasjuara.id,SMP,9,Jawa Tengah,2025-03-21
+USR0225,Lina Wijaya,lina.wijaya225@kelasjuara.id,SMP,9,Jawa Timur,2025-10-14
+USR0226,Mega Siagian,mega.siagian226@kelasjuara.id,SMP,9,Jawa Timur,2024-12-22
+USR0227,Endang Iskandar,endang.iskandar227@kelasjuara.id,SMP,9,Papua,2024-05-28
+USR0228,Dimas Tanjung,dimas.tanjung228@kelasjuara.id,SMP,9,Jawa Tengah,2023-07-18
+USR0229,Rama Sulistyo,rama.sulistyo229@kelasjuara.id,SMP,8,Sulawesi Tengah,2025-06-21
+USR0230,Eka Suryana,eka.suryana230@kelasjuara.id,SMA,12,Sumatera Selatan,2023-09-27
+USR0231,Lestari Cahyani,lestari.cahyani231@kelasjuara.id,SMA,12,Kalimantan Selatan,2025-04-30
+USR0232,Yusuf Rahayu,yusuf.rahayu232@kelasjuara.id,SMP,9,Banten,2025-01-19
+USR0233,Arif Safitri,arif.safitri233@kelasjuara.id,SMA,10,Sumatera Utara,2024-06-10
+USR0234,Siti Cahyani,siti.cahyani234@kelasjuara.id,SMA,10,Banten,2025-08-17
+USR0235,Joko Santoso,joko.santoso235@kelasjuara.id,SMP,9,Jawa Timur,2025-03-24
+USR0236,Fahri Kusuma,fahri.kusuma236@kelasjuara.id,SMP,8,Sumatera Barat,2023-01-29
+USR0237,Jihan Dewanti,jihan.dewanti237@kelasjuara.id,SMP,8,Jawa Timur,2025-01-24
+USR0238,Dimas Halim,dimas.halim238@kelasjuara.id,SMA,12,Jawa Barat,2025-02-19
+USR0239,Salsa Kusuma,salsa.kusuma239@kelasjuara.id,SMP,9,Sumatera Selatan,2024-04-23
+USR0240,Riska Susanto,riska.susanto240@kelasjuara.id,SMA,12,Jawa Timur,2024-03-29
+USR0241,Tiara Setiawan,tiara.setiawan241@kelasjuara.id,SMA,12,Nusa Tenggara Barat,2024-09-10
+USR0242,Ulfah Prasetyo,ulfah.prasetyo242@kelasjuara.id,SMP,7,Nusa Tenggara Timur,2023-04-03
+USR0243,Eka Hakim,eka.hakim243@kelasjuara.id,SMA,10,Bali,2023-07-19
+USR0244,Galih Dewanti,galih.dewanti244@kelasjuara.id,SMP,8,Jawa Tengah,2025-07-18
+USR0245,Bambang Fadilah,bambang.fadilah245@kelasjuara.id,SMA,12,Jawa Barat,2023-11-13
+USR0246,Irma Sulistyo,irma.sulistyo246@kelasjuara.id,SMP,8,Nusa Tenggara Barat,2025-04-15
+USR0247,Lina Pratama,lina.pratama247@kelasjuara.id,SMA,10,Jawa Tengah,2025-06-27
+USR0248,Lukman Utami,lukman.utami248@kelasjuara.id,SMA,10,Papua,2025-01-22
+USR0249,Doni Sulistyo,doni.sulistyo249@kelasjuara.id,SMA,10,Papua,2025-03-26
+USR0250,Lina Rahayu,lina.rahayu250@kelasjuara.id,SMP,8,Sulawesi Selatan,2023-07-07

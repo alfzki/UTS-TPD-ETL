@@ -1,0 +1,26 @@
+produk_id,nama_produk,subject_name,school_level,difficulty,tutor_name
+PRD001,Mathematics Junior High Course,Mathematics,Junior High,hard,Drs. Dini Permata
+PRD002,Physics Junior High Course,Physics,Junior High,easy,M.Sc. Irfan Hakim
+PRD003,Chemistry Junior High Course,Chemistry,Junior High,easy,Dr. Hesti Kurnia
+PRD004,Biology Junior High Course,Biology,Junior High,easy,Drs. Dini Permata
+PRD005,Indonesian Junior High Course,Indonesian,Junior High,hard,Dr. Ratna Dewi
+PRD006,English Junior High Course,English,Junior High,easy,Prof. Surya Darma
+PRD007,Economics Junior High Course,Economics,Junior High,medium,Prof. Budi Santoso
+PRD008,History Junior High Course,History,Junior High,easy,Ir. Cahyo Wibowo
+PRD009,Geography Junior High Course,Geography,Junior High,easy,Dr. Hesti Kurnia
+PRD010,Sociology Junior High Course,Sociology,Junior High,hard,Dr. Tanti Mulyani
+PRD011,Mathematics Senior High Course,Mathematics,Senior High,easy,Dr. Ratna Dewi
+PRD012,Physics Senior High Course,Physics,Senior High,easy,Dr. Ratna Dewi
+PRD013,Chemistry Senior High Course,Chemistry,Senior High,medium,Dr. Hesti Kurnia
+PRD014,Biology Senior High Course,Biology,Senior High,medium,Prof. Surya Darma
+PRD015,Indonesian Senior High Course,Indonesian,Senior High,medium,Dr. Anisa Rahma
+PRD016,English Senior High Course,English,Senior High,easy,Dr. Nadia Kusuma
+PRD017,Economics Senior High Course,Economics,Senior High,medium,M.Sc. Irfan Hakim
+PRD018,History Senior High Course,History,Senior High,easy,Prof. Guntur Setiawan
+PRD019,Geography Senior High Course,Geography,Senior High,medium,Drs. Dini Permata
+PRD020,Sociology Senior High Course,Sociology,Senior High,easy,M.Pd. Mario Budiman
+PRD021,Physics Senior High Extra,Physics,Senior High,medium,Dr. Tanti Mulyani
+PRD022,Indonesian Junior High Extra,Indonesian,Junior High,hard,Prof. Oscar Hermawan
+PRD023,Geography Junior High Extra,Geography,Junior High,medium,Ir. Cahyo Wibowo
+PRD024,Geography Senior High Extra,Geography,Senior High,hard,Dr. Tanti Mulyani
+PRD025,English Junior High Extra,English,Junior High,hard,Ir. Cahyo Wibowo

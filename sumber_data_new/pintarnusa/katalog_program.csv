@@ -1,0 +1,31 @@
+id_program,nama_program,bidang_studi,jenjang,level_kesulitan,pengajar
+PGM001,Program Matematika SMP,Matematika,SMP,mahir,Drs. Dini Permata
+PGM002,Program Fisika SMP,Fisika,SMP,pemula,M.Sc. Irfan Hakim
+PGM003,Program Kimia SMP,Kimia,SMP,pemula,Dr. Hesti Kurnia
+PGM004,Program Biologi SMP,Biologi,SMP,pemula,Drs. Dini Permata
+PGM005,Program Bahasa Indonesia SMP,Bahasa Indonesia,SMP,mahir,Dr. Ratna Dewi
+PGM006,Program Bahasa Inggris SMP,Bahasa Inggris,SMP,pemula,Prof. Surya Darma
+PGM007,Program Ekonomi SMP,Ekonomi,SMP,menengah,Prof. Budi Santoso
+PGM008,Program Sejarah SMP,Sejarah,SMP,pemula,Ir. Cahyo Wibowo
+PGM009,Program Geografi SMP,Geografi,SMP,pemula,Dr. Hesti Kurnia
+PGM010,Program Sosiologi SMP,Sosiologi,SMP,mahir,Dr. Tanti Mulyani
+PGM011,Program Matematika SMA,Matematika,SMA,pemula,Dr. Ratna Dewi
+PGM012,Program Fisika SMA,Fisika,SMA,pemula,Dr. Ratna Dewi
+PGM013,Program Kimia SMA,Kimia,SMA,menengah,Dr. Hesti Kurnia
+PGM014,Program Biologi SMA,Biologi,SMA,menengah,Prof. Surya Darma
+PGM015,Program Bahasa Indonesia SMA,Bahasa Indonesia,SMA,menengah,Dr. Anisa Rahma
+PGM016,Program Bahasa Inggris SMA,Bahasa Inggris,SMA,pemula,Dr. Nadia Kusuma
+PGM017,Program Ekonomi SMA,Ekonomi,SMA,menengah,M.Sc. Irfan Hakim
+PGM018,Program Sejarah SMA,Sejarah,SMA,pemula,Prof. Guntur Setiawan
+PGM019,Program Geografi SMA,Geografi,SMA,menengah,Drs. Dini Permata
+PGM020,Program Sosiologi SMA,Sosiologi,SMA,pemula,M.Pd. Mario Budiman
+PGM021,Program Fisika SMA Kilat,Fisika,SMA,menengah,Dr. Tanti Mulyani
+PGM022,Program Bahasa Indonesia SMP Kilat,Bahasa Indonesia,SMP,mahir,Prof. Oscar Hermawan
+PGM023,Program Geografi SMP Kilat,Geografi,SMP,menengah,Ir. Cahyo Wibowo
+PGM024,Program Geografi SMA Kilat,Geografi,SMA,mahir,Dr. Tanti Mulyani
+PGM025,Program Bahasa Inggris SMP Kilat,Bahasa Inggris,SMP,mahir,Ir. Cahyo Wibowo
+PGM026,Program Matematika SMP Kilat,Matematika,SMP,menengah,Ir. Cahyo Wibowo
+PGM027,Program Biologi SMP Kilat,Biologi,SMP,menengah,M.Sc. Irfan Hakim
+PGM028,Program Sejarah SMA Kilat,Sejarah,SMA,pemula,Dr. Laila Nuraini
+PGM029,Program Bahasa Inggris SMP Kilat,Bahasa Inggris,SMP,mahir,M.Sc. Irfan Hakim
+PGM030,Program Fisika SMP Kilat,Fisika,SMP,mahir,Dr. Hesti Kurnia
